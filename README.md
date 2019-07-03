@@ -14,7 +14,7 @@
 
 
 
-### 工具库
+### 语言类库
 
 [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation ![](https://img.shields.io/github/stars/alexreardon/memoize-one.svg)
 
@@ -33,6 +33,8 @@
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> ![](https://img.shields.io/github/stars/pugjs/pug.svg)
 
 
-### 有趣的包
+### 工具包
+
+[puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev ![](https://img.shields.io/github/stars/GoogleChrome/puppeteer.svg)
 
 [capture-website](https://github.com/sindresorhus/capture-website) Capture screenshots of websites ![](https://img.shields.io/github/stars/sindresorhus/capture-website.svg)
