@@ -1,5 +1,6 @@
 # awesome-any
 
+Less is more.
 
 ## node.js
 
