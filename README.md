@@ -3,7 +3,18 @@
 
 ## node.js
 
-### 工具库
+
+### 开发运维工具
+
+[nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions ![](https://img.shields.io/github/stars/creationix/nvm.svg)
+
+[nodemon](https://github.com/remy/nodemon) Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/ ![](https://img.shields.io/github/stars/remy/nodemon.svg)
+
+[pm](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
+
+
+
+### 类库
 
 [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation ![](https://img.shields.io/github/stars/alexreardon/memoize-one.svg)
 
