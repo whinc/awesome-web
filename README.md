@@ -14,7 +14,7 @@
 
 
 
-### 类库
+### 工具库
 
 [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation ![](https://img.shields.io/github/stars/alexreardon/memoize-one.svg)
 
@@ -31,3 +31,8 @@
 ### 模板引擎
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> ![](https://img.shields.io/github/stars/pugjs/pug.svg)
+
+
+### 有趣的包
+
+[capture-website](https://github.com/sindresorhus/capture-website) Capture screenshots of websites ![](https://img.shields.io/github/stars/sindresorhus/capture-website.svg)
