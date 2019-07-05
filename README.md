@@ -50,8 +50,6 @@ Less is more.
 
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev ![](https://img.shields.io/github/stars/GoogleChrome/puppeteer.svg)
 
-[capture-website](https://github.com/sindresorhus/capture-website) Capture screenshots of websites ![](https://img.shields.io/github/stars/sindresorhus/capture-website.svg)
-
 
 ## 参考
 
