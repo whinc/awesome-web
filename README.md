@@ -23,7 +23,7 @@ Less is more.
 
 [nodemon](https://github.com/remy/nodemon) Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/ ![](https://img.shields.io/github/stars/remy/nodemon.svg)
 
-[pm](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
+[pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
 
 
 
