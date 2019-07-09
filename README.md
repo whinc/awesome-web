@@ -53,13 +53,15 @@ Less is more.
 
 [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io ![](https://img.shields.io/github/stars/facebook/jest.svg)
 
+[json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  ![](https://img.shields.io/github/stars/typicode/json-server.svg)
+
 
 ### 模板引擎
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> ![](https://img.shields.io/github/stars/pugjs/pug.svg)
 
 
-### 工具包
+### 工具库
 
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev ![](https://img.shields.io/github/stars/GoogleChrome/puppeteer.svg)
 
