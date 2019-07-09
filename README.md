@@ -43,7 +43,7 @@ Less is more.
 
 [koa](https://github.com/koajs/koa) Expressive middleware for node.js using ES2017 async functions https://koajs.com ![](https://img.shields.io/github/stars/koajs/koa.svg) [middlware列表](https://github.com/koajs/koa/wiki)
 
-### 开发运维工具
+### 开发测试运维工具
 
 [nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions ![](https://img.shields.io/github/stars/creationix/nvm.svg)
 
@@ -56,12 +56,9 @@ Less is more.
 [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  ![](https://img.shields.io/github/stars/typicode/json-server.svg)
 
 
-### 模板引擎
+### 工具库
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> ![](https://img.shields.io/github/stars/pugjs/pug.svg)
-
-
-### 工具库
 
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev ![](https://img.shields.io/github/stars/GoogleChrome/puppeteer.svg)
 
