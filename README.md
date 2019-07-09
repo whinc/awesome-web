@@ -51,6 +51,8 @@ Less is more.
 
 [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
 
+[jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io ![](https://img.shields.io/github/stars/facebook/jest.svg)
+
 
 ### 模板引擎
 
