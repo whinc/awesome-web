@@ -52,7 +52,6 @@ Less is more.
 [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
 
 
-
 ### 模板引擎
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> ![](https://img.shields.io/github/stars/pugjs/pug.svg)
@@ -61,6 +60,8 @@ Less is more.
 ### 工具包
 
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev ![](https://img.shields.io/github/stars/GoogleChrome/puppeteer.svg)
+
+[dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. ![](https://img.shields.io/github/stars/motdotla/dotenv.svg)
 
 
 ## 参考
