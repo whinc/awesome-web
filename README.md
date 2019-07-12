@@ -36,7 +36,7 @@ Less is more.
 [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer ![](https://img.shields.io/github/stars/chanind/hanzi-writer.svg)
 
 
-## node.js
+## Node.js
 
 
 ### 框架
@@ -63,6 +63,13 @@ Less is more.
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev ![](https://img.shields.io/github/stars/GoogleChrome/puppeteer.svg)
 
 [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. ![](https://img.shields.io/github/stars/motdotla/dotenv.svg)
+
+[pegjs](https://github.com/pegjs/pegjs) PEG.js: Parser generator for JavaScript https://pegjs.org/ ![](https://img.shields.io/github/stars/pegjs/pegjs.svg)
+
+
+## 其他
+
+[antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. http://antlr.org ![](https://img.shields.io/github/stars/antlr/antlr4.svg)
 
 
 ## 参考
