@@ -57,6 +57,8 @@ Less is more.
 
 [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  ![](https://img.shields.io/github/stars/typicode/json-server.svg)
 
+[ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js ![](https://img.shields.io/github/stars/TypeStrong/ts-node.svg)
+
 
 ### 工具库
 
