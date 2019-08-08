@@ -70,6 +70,7 @@ Less is more.
 
 [pegjs](https://github.com/pegjs/pegjs) PEG.js: Parser generator for JavaScript https://pegjs.org/ ![](https://img.shields.io/github/stars/pegjs/pegjs.svg)
 
+[isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ ![](https://img.shields.io/github/stars/isomorphic-git/isomorphic-git.svg)
 
 ## 其他
 
