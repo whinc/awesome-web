@@ -50,13 +50,11 @@ Less is more.
 
 [koa](https://github.com/koajs/koa) Expressive middleware for node.js using ES2017 async functions https://koajs.com ![](https://img.shields.io/github/stars/koajs/koa.svg) [middlware列表](https://github.com/koajs/koa/wiki)
 
-### 开发测试运维工具
+### 开发测试工具
 
 [nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions ![](https://img.shields.io/github/stars/creationix/nvm.svg)
 
 [nodemon](https://github.com/remy/nodemon) Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/ ![](https://img.shields.io/github/stars/remy/nodemon.svg)
-
-[pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
 
 [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io ![](https://img.shields.io/github/stars/facebook/jest.svg)
 
@@ -64,6 +62,9 @@ Less is more.
 
 [ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js ![](https://img.shields.io/github/stars/TypeStrong/ts-node.svg)
 
+## 运维工具
+
+[pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io ![](https://img.shields.io/github/stars/Unitech/pm2.svg)
 
 ### 工具库
 
