@@ -33,6 +33,11 @@ Less is more.
 
 [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ ![](https://img.shields.io/github/stars/microsoft/monaco-editor.svg)
 
+
+## 图表
+
+[GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/ ![](https://img.shields.io/github/stars/gaoli/GGEditor.svg)
+
 ### 有趣的库
 
 [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer ![](https://img.shields.io/github/stars/chanind/hanzi-writer.svg)
