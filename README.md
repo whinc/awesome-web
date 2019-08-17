@@ -88,20 +88,23 @@ Less is more.
 [pegjs](https://github.com/pegjs/pegjs) PEG.js: Parser generator for JavaScript https://pegjs.org/ 
 
 
-### 文档生成
+### 文档
 
+**接口文档、组件文档**
 
 [jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript. https://jsdoc.app/ 
 
 [TypeDoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
-
-[docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
 
 [docz](https://github.com/pedronauck/docz) It has never been so easy to document your things! https://docz.site 
 
 [react-styleguidist](https://github.com/styleguidist/react-styleguidist) Isolated React component development environment with a living style guide https://react-styleguidist.js.org/ 
 
 [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
+
+**静态站点**
+
+[docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
 
 
 ## 其他
