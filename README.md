@@ -111,7 +111,8 @@ Less is more.
 
 [antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. http://antlr.org 
 
-## 资源
+
+## PC 开发环境配置
 
 [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 
