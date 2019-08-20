@@ -107,6 +107,12 @@ Less is more.
 [docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
 
 
+## 开源服务
+
+[sentry](https://github.com/getsentry/sentry) Sentry is cross-platform application monitoring, with a focus on error reporting. https://sentry.io
+
+[jenkins](https://github.com/jenkinsci/jenkins) Jenkins automation server https://jenkins.io/
+
 ## 其他
 
 [antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. http://antlr.org 
