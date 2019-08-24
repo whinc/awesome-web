@@ -28,6 +28,8 @@ Less is more.
 
 [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize 
 
+[tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function
+
 
 ### 编辑器
 
