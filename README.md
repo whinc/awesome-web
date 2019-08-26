@@ -28,8 +28,6 @@ Less is more.
 
 [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize 
 
-[tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function
-
 
 ### 编辑器
 
@@ -82,6 +80,10 @@ Less is more.
 
 
 [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ 
+
+[tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function
+
+[tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function
 
 ## 编译器
 
