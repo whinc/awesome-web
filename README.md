@@ -7,8 +7,6 @@ Less is more.
 
 ### 脚手架
 
-[tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
-
 [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
 
 [vue-cli](https://github.com/vuejs/vue-cli) Standard Tooling for Vue.js Development https://cli.vuejs.org/
@@ -47,6 +45,9 @@ Less is more.
 
 ## Node.js
 
+### 脚手架
+
+[tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 
 ### 框架
 
