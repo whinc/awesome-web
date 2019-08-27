@@ -14,6 +14,11 @@ Less is more.
 
 [tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function
 
+## 构建发布
+
+[semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
+
+
 ## 错误处理
 
 [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
