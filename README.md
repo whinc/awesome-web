@@ -22,6 +22,12 @@ Less is more.
 
 [node-stack-trace](https://github.com/felixge/node-stack-trace) Get v8 stack traces as an array of CallSite objects.
 
+[isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ 
+
+[dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
+
+[puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
+
 ## 构建发布
 
 [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
@@ -97,13 +103,6 @@ Less is more.
 
 
 [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
-
-[isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ 
-
-[dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
-
-[puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
-
 
 [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
