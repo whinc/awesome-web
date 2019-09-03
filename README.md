@@ -4,26 +4,28 @@ Less is more.
 
 # web & node.js 包
 
-## 语言类
+## 语言库
 
 [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation 
 
 [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize 
 
+
+## 工具库
+
+
 [tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function
 
 [tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function
+
+[stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
+
+[node-stack-trace](https://github.com/felixge/node-stack-trace) Get v8 stack traces as an array of CallSite objects.
 
 ## 构建发布
 
 [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
-
-## 错误处理
-
-[stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
-
-[node-stack-trace](https://github.com/felixge/node-stack-trace) Get v8 stack traces as an array of CallSite objects.
 
 
 ## 模板引擎
