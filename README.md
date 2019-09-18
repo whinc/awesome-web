@@ -8,6 +8,7 @@ Less is more.
 
 [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
 
+[hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
 **CSS**
 
@@ -38,6 +39,8 @@ Less is more.
 
 ## node.js
 
+**npm 包**
+
 [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation (node & browser)
 
 [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
@@ -53,7 +56,6 @@ Less is more.
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
 
 [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
-
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
@@ -81,10 +83,6 @@ Less is more.
 
 [TypeDoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
 
-[docz](https://github.com/pedronauck/docz) It has never been so easy to document your things! https://docz.site 
-
-[react-styleguidist](https://github.com/styleguidist/react-styleguidist) Isolated React component development environment with a living style guide https://react-styleguidist.js.org/ 
-
 [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
 [docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
@@ -97,13 +95,9 @@ Less is more.
 
 [ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js 
 
-
 [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
 
-
 [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
-
-[hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
 
 ## PC 开发环境配置
@@ -114,3 +108,4 @@ Less is more.
 
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 * [awesome-react](https://github.com/enaqx/awesome-react)
+* [Open Source Awards](https://osawards.com/)
