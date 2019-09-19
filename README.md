@@ -56,8 +56,6 @@ Less is more.
 
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
 
-[semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
-
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
 **脚手架**
@@ -65,6 +63,8 @@ Less is more.
 [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 
 [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
+
+[semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
 
 **测试**
@@ -102,6 +102,10 @@ Less is more.
 
 [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
 
+
+## 标准规范
+
+[estree](https://github.com/estree/estree) The ESTree Spec
 
 ## PC 开发环境配置
 
