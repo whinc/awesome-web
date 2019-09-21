@@ -67,6 +67,8 @@ Less is more.
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
+[flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
+
 **脚手架**
 
 [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
@@ -74,7 +76,6 @@ Less is more.
 [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 
 [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
-
 
 **测试**
 
