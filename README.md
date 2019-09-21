@@ -133,6 +133,10 @@ Less is more.
 
 [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 
+[PicGo](https://github.com/Molunerfinn/PicGo) A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
+
+[Snipaste](https://zh.snipaste.com/index.html) 一个简单但强大的截图工具
+
 ## 参考
 
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
