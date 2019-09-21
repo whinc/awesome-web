@@ -25,6 +25,10 @@ Less is more.
 
 ## React
 
+**状态管理**
+
+[immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
+
 **脚手架**
 
 [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
