@@ -31,6 +31,10 @@ Less is more.
 
 **状态管理**
 
+[redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
+
+[react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux https://react-redux.js.org
+
 [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
 
 **脚手架**
@@ -68,6 +72,12 @@ Less is more.
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
 [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
+
+**日期**
+
+[dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+
+[date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
 
 **脚手架**
 
