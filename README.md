@@ -22,6 +22,10 @@ Less is more.
 
 [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
 
+**可视化**
+
+[mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
+
 
 ## React
 
@@ -41,6 +45,7 @@ Less is more.
 **图表**
 
 [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
+
 
 ## node.js
 
