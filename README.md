@@ -4,11 +4,9 @@ Less is more.
 
 ## Web
 
-**npm 包**
+**网络**
 
-[stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
-
-[hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
+[axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 
 **CSS**
 
@@ -25,6 +23,12 @@ Less is more.
 **可视化**
 
 [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
+
+**npm 包**
+
+[stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
+
+[hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
 
 ## React
