@@ -29,6 +29,14 @@ Less is more.
 
 ## React
 
+**脚手架**
+
+[create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
+
+**CSS**
+
+[styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com 
+
 **状态管理**
 
 [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
@@ -39,14 +47,6 @@ Less is more.
 
 [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
 
-**脚手架**
-
-[create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
-
-**CSS**
-
-[styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com 
-
 
 **图表**
 
@@ -54,6 +54,14 @@ Less is more.
 
 
 ## node.js
+
+**脚手架**
+
+[tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
+
+[oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
+
+[semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
 **npm 包**
 
@@ -80,14 +88,6 @@ Less is more.
 [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
 
 [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
-
-**脚手架**
-
-[tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
-
-[oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
-
-[semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
 **测试**
 
