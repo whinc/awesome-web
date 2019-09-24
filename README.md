@@ -24,6 +24,12 @@ Less is more.
 
 [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
 
+
+**文本处理**
+
+[unified](https://github.com/unifiedjs/unified) friendly interface backed by an ecosystem of plugins built for creating and manipulating content https://unifiedjs.com
+- [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
+
 **npm 包**
 
 [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
@@ -52,10 +58,11 @@ Less is more.
 [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
 
 
-**图表**
+**组件**
 
 [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
 
+[react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
 
 ## node.js
 
