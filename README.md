@@ -46,7 +46,7 @@ Less is more.
 
 [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
 
-**UI库**
+**CSS库**
 
 [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
 - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
@@ -63,7 +63,7 @@ Less is more.
 
 [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
 
-[react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux https://react-redux.js.org
+[mobx](https://github.com/mobxjs/mobx) Simple, scalable state management. http://mobx.js.org
 
 [constate](https://github.com/diegohaz/constate) Scalable state using React Hooks & Context
 
