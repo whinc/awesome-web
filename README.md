@@ -158,7 +158,17 @@ Less is more.
 
 [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
 
-## PC 开发环境配置
+## 速查表
+
+[Git](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt)
+
+[Bash](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh)
+
+[Tmux](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt)
+
+[Vim](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
+
+## 桌面工具
 
 [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 
@@ -171,3 +181,4 @@ Less is more.
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 * [awesome-react](https://github.com/enaqx/awesome-react)
 * [Open Source Awards](https://osawards.com/)
+* [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
