@@ -8,7 +8,7 @@ Less is more.
 
 [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 
-**CSS库**
+**CSS & 组件库**
 
 [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
 
@@ -48,7 +48,7 @@ Less is more.
 
 [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
 
-**CSS库**
+**CSS & 组件库**
 
 [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
 - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
@@ -60,7 +60,6 @@ Less is more.
 [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com 
 
 
-
 **状态管理**
 
 [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
@@ -69,10 +68,14 @@ Less is more.
 
 [constate](https://github.com/diegohaz/constate) Scalable state using React Hooks & Context
 
+**工具库**
+
 [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
 
+[prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
 
-**组件**
+
+**领域组件**
 
 [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
 
