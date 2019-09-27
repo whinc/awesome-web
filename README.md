@@ -23,6 +23,8 @@ Less is more.
 
 [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
 
+[language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
+
 **可视化**
 
 [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
@@ -153,6 +155,8 @@ Less is more.
 [estree](https://github.com/estree/estree) The ESTree Spec
 
 [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
+
+[JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
 
 ## PC 开发环境配置
 
