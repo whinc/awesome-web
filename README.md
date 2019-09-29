@@ -8,13 +8,15 @@ Less is more.
 
 [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 
-**CSS & 组件库**
+**CSS**
 
 [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
 
 [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
 
 [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
+
+**组件库**
 
 [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
 
@@ -44,7 +46,7 @@ Less is more.
 [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
 
-## React
+## [React](https://zh-hans.reactjs.org/)
 
 
 **脚手架**
@@ -55,9 +57,11 @@ Less is more.
 
 [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
-**CSS & 组件库**
+**CSS**
 
 [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com 
+
+**组件库**
 
 [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
 - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
