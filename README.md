@@ -105,8 +105,6 @@ Less is more.
 
 [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
 
-[puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
-
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
 [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
@@ -120,6 +118,12 @@ Less is more.
 **测试**
 
 [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
+
+**浏览器**
+
+[jsdom](https://github.com/jsdom/jsdom) A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+
+[puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
 
 
 **编译器**
