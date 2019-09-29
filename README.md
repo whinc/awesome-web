@@ -6,6 +6,8 @@ Less is more.
 
 **网络**
 
+[api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
+
 [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 
 **CSS**
@@ -187,6 +189,8 @@ Less is more.
 [Vim](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
 
 ## 桌面工具
+
+[carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
 
 [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 
