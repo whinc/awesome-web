@@ -46,9 +46,14 @@ Less is more.
 
 ## React
 
+
 **脚手架**
 
 [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
+
+**路由**
+
+[react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
 **CSS & 组件库**
 
@@ -188,6 +193,7 @@ Less is more.
 ## 参考
 
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
+* [awesome-react](https://github.com/enaqx/awesome-react)
 * [awesome-react](https://github.com/enaqx/awesome-react)
 * [Open Source Awards](https://osawards.com/)
 * [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
