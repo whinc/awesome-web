@@ -108,23 +108,28 @@ Less is more.
 
 [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
+[tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function (node & browser)
+
+[tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function (node & browser)
+
+[dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
+
+[cosmiconfig](https://github.com/davidtheclark/cosmiconfig) Find and load configuration from a package.json property, rc file, or CommonJS module
+
 **npm 包**
 
 [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation (node & browser)
 
 [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
 
-[tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function (node & browser)
 
-[tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function (node & browser)
 
 [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ (node & browser)
-
-[dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
 
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
 [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
+
 
 **日期**
 
