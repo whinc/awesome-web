@@ -33,6 +33,14 @@ Less is more.
 
 **可视化**
 
+[echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
+
+[AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
+方便、专业可靠、无限可能的数据可视化最佳实践。 https://antv.alipay.com/zh-cn/index.html
+- [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
+- [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
+- [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
+
 [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
 
 
@@ -41,7 +49,7 @@ Less is more.
 [unified](https://github.com/unifiedjs/unified) friendly interface backed by an ecosystem of plugins built for creating and manipulating content https://unifiedjs.com
 - [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
 
-**npm 包**
+**其他**
 
 [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
 
