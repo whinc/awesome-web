@@ -56,8 +56,9 @@ Less is more.
 [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
 
-## [React](https://zh-hans.reactjs.org/)
+## [React](https://github.com/facebook/react/)
 
+A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
 
 **脚手架**
 
