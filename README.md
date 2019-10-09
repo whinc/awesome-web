@@ -112,11 +112,16 @@ Less is more.
 
 [tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function (node & browser)
 
+
+**配置**
+
 [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
 
 [dotenv-expand](https://github.com/motdotla/dotenv-expand) Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
 
 [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) Find and load configuration from a package.json property, rc file, or CommonJS module
+
+[env-cmd](https://github.com/toddbluhm/env-cmd) Setting the environment from a file
 
 **npm 包**
 
