@@ -101,6 +101,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
 
+**Hooks**
+
+[react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
+
 ## node.js
 
 **脚手架**
@@ -225,3 +229,4 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 * [Open Source Awards](https://osawards.com/)
 * [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
 * [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
+* [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
