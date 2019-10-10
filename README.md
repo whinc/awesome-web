@@ -141,8 +141,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
 
 
-[isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ (node & browser)
-
 [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 
 [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
@@ -163,6 +161,14 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 [jsdom](https://github.com/jsdom/jsdom) A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 
 [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
+
+**Git**
+
+[nodegit](https://github.com/nodegit/nodegit) Native Node bindings to Git. https://www.nodegit.org/
+
+[git-js](https://github.com/steveukx/git-js) A light weight interface for running git commands in any node.js application.
+
+[isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ (node & browser)
 
 
 **编译器**
