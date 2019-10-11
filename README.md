@@ -65,7 +65,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
   - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
   - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
-- [material-ui](https://github.com/mui-org/material-ui) React components that implement 【Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
+- [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
 
 **特殊组件**
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
