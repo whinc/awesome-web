@@ -2,6 +2,9 @@
 Less is more.
 ## Web
 
+**脚手架**
+  - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
+
 **CSS**
   - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
   - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
