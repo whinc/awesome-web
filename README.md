@@ -142,7 +142,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 ## 参考
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 * [awesome-react](https://github.com/enaqx/awesome-react)
-* [awesome-react](https://github.com/enaqx/awesome-react)
 * [Open Source Awards](https://osawards.com/)
 * [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
 * [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
