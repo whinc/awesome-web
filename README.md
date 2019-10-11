@@ -23,8 +23,7 @@ Less is more.
 
 **可视化**
 - [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
-- [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
-方便、专业可靠、无限可能的数据可视化最佳实践。 https://antv.alipay.com/zh-cn/index.html
+- [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案 https://antv.alipay.com/zh-cn/index.html
   - [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
   - [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
   - [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
@@ -66,7 +65,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
   - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
   - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
-- [material-ui](https://github.com/mui-org/material-ui) React components for faster and easier web development. Build your own design system, or start with Material Design. https://material-ui.com/
+- [material-ui](https://github.com/mui-org/material-ui) React components that implement 【Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
 
 **特殊组件**
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
