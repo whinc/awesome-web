@@ -69,13 +69,12 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
 
-**CSS**
+
+**CSS & 组件**
 
 [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com 
 
 [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
-
-**组件库**
 
 [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
 - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
