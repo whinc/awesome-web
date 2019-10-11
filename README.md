@@ -25,9 +25,9 @@ Less is more.
 - [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
 - [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
 方便、专业可靠、无限可能的数据可视化最佳实践。 https://antv.alipay.com/zh-cn/index.html
-- [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
-- [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
-- [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
+  - [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
+  - [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
+  - [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
 - [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
 
 **文本处理**
@@ -50,14 +50,16 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **CSS 工具**
 - [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. https://styled-components.com 
 - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
-- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
+
 
 **组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
+  - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
+  - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
 - [material-ui](https://github.com/mui-org/material-ui) React components for faster and easier web development. Build your own design system, or start with Material Design. https://material-ui.com/
 
 **动画**
-- [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
+
 
 **状态管理**
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
