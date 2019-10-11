@@ -70,6 +70,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **特殊组件**
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
 - [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
+- [react-split-pane](https://github.com/tomkp/react-split-pane) React split-pane component https://react-split-pane.now.sh
 
 **Hooks**
 - [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
