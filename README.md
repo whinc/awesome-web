@@ -32,7 +32,8 @@ Less is more.
 
 **文本处理**
 - [unified](https://github.com/unifiedjs/unified) friendly interface backed by an ecosystem of plugins built for creating and manipulating content https://unifiedjs.com
-- [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
+  - [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
+  - [rehype](https://github.com/rehypejs/rehype) HTML processor powered by plugins part of the @unifiedjs collective https://unifiedjs.com
 
 **其他**
 - [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
