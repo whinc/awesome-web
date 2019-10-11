@@ -5,13 +5,11 @@ Less is more.
 **CSS**
   - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
   - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
+  - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
 
 **HTTP 请求**
   - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
   - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
-
-**组件库**
-- [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
 
 **编辑器**
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
