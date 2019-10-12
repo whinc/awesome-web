@@ -42,6 +42,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **脚手架**
 - [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
+- [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
 
 **路由**
 - [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
