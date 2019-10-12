@@ -17,9 +17,7 @@ Less is more.
   - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 
 **编辑器**
-- [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
 - [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
-- [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
 
 **可视化**
 - [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
@@ -67,8 +65,12 @@ A declarative, efficient, and flexible JavaScript library for building user inte
   - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
 - [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
 
-**特殊组件**
+**编辑器**
+- [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
+- [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
+
+**特殊组件**
 - [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
 - [react-split-pane](https://github.com/tomkp/react-split-pane) React split-pane component https://react-split-pane.now.sh
 
@@ -137,16 +139,20 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [estree](https://github.com/estree/estree) The ESTree Spec
 - [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
+- [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
+
 ## 速查表
 - [Git](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt)
 - [Bash](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh)
 - [Tmux](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt)
 - [Vim](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
+
 ## 桌面工具
 - [carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 - [PicGo](https://github.com/Molunerfinn/PicGo) A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
 - [Snipaste](https://zh.snipaste.com/index.html) 一个简单但强大的截图工具
+
 ## 参考
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 * [awesome-react](https://github.com/enaqx/awesome-react)
