@@ -1,6 +1,16 @@
 # awesome-any
 Less is more.
 
+目录
+- [Web](https://github.com/whinc/awesome-any#web)
+- [前端工程化](https://github.com/whinc/awesome-any#前端工程化)
+- [React](https://github.com/whinc/awesome-any#react)
+- [Node.js](https://github.com/whinc/awesome-any#nodejs)
+- [标准规范](https://github.com/whinc/awesome-any#标准规范)
+- [速查表](https://github.com/whinc/awesome-any#速查表)
+- [桌面工具](https://github.com/whinc/awesome-any#桌面工具)
+- [参考](https://github.com/whinc/awesome-any#参考)
+
 ## Web
 
 **脚手架**
@@ -51,6 +61,10 @@ Less is more.
 - [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
 - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
 
+**代码质量**
+- [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
+- [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
+
 **测试框架**
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
 
@@ -60,8 +74,7 @@ Less is more.
 - [Google Fonts](https://fonts.google.com/)
 
 **其他**
-- [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
-- [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
+- [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
 
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
