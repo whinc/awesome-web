@@ -8,6 +8,7 @@ Less is more.
 **CSS 工具**
   - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
   - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
+  - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
   
 **组件库**
   - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
@@ -49,7 +50,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **样式**
 - [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. https://styled-components.com 
-- [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
+
 
 **工具库**
 - [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
