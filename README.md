@@ -54,6 +54,11 @@ Less is more.
 **测试框架**
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
 
+**设计资源**
+- [Iconfont](https://www.iconfont.cn/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
 **其他**
 - [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
 - [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
