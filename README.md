@@ -23,6 +23,9 @@ Less is more.
   
 **组件库**
   - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
+  
+**路由**
+  - [vanilla-router](https://github.com/Graidenix/vanilla-router) Vanilla Router for SPA sites
 
 **HTTP 请求**
   - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
