@@ -48,6 +48,7 @@ Less is more.
   - [rehype](https://github.com/rehypejs/rehype) HTML processor powered by plugins part of the @unifiedjs collective https://unifiedjs.com
 
 **其他**
+- [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
 - [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
 - [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
@@ -121,6 +122,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [react-split-pane](https://github.com/tomkp/react-split-pane) React split-pane component https://react-split-pane.now.sh
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) Infinite scroll component for React
+- [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) React scrollbars component https://malte-wessel.com/react-custom-scrollbars/
 
 **Hooks**
 - [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
