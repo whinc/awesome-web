@@ -2,14 +2,14 @@
 Less is more.
 
 目录
-- [Web](https://github.com/whinc/awesome-any#web)
-- [前端工程化](https://github.com/whinc/awesome-any#前端工程化)
-- [React](https://github.com/whinc/awesome-any#react)
-- [Node.js](https://github.com/whinc/awesome-any#nodejs)
-- [标准规范](https://github.com/whinc/awesome-any#标准规范)
-- [速查表](https://github.com/whinc/awesome-any#速查表)
-- [桌面工具](https://github.com/whinc/awesome-any#桌面工具)
-- [参考](https://github.com/whinc/awesome-any#参考)
+- [Web](https://github.com/whinc/awesome-any/blob/master/README.md#web)
+- [前端工程化](https://github.com/whinc/awesome-any/blob/master/README.md#前端工程化)
+- [React](https://github.com/whinc/awesome-any/blob/master/README.md#react)
+- [Node.js](https://github.com/whinc/awesome-any/blob/master/README.md#nodejs)
+- [标准规范](https://github.com/whinc/awesome-any/blob/master/README.md#标准规范)
+- [速查表](https://github.com/whinc/awesome-any/blob/master/README.md#速查表)
+- [桌面工具](https://github.com/whinc/awesome-any/blob/master/README.md#桌面工具)
+- [参考](https://github.com/whinc/awesome-any/blob/master/README.md#参考)
 
 ## Web
 
@@ -197,6 +197,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [PicGo](https://github.com/Molunerfinn/PicGo) A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
 - [Snipaste](https://zh.snipaste.com/index.html) 一个简单但强大的截图工具
 - [artipub](https://github.com/crawlab-team/artipub) Article publishing platform that automatically distributes your articles to various media channels
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. http://www.screentogif.com
 
 ## 参考
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
