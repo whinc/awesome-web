@@ -134,8 +134,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 - [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
-- [tiny-invariant](https://github.com/alexreardon/tiny-invariant) A tiny invariant function (node & browser)
-- [tiny-warning](https://github.com/alexreardon/tiny-warning) A tiny warning function (node & browser)
 
 **工具库**
 - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
