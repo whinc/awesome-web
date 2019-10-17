@@ -54,6 +54,12 @@ Less is more.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
 - [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
+## 设计资源
+- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
+- [Iconfont](https://www.iconfont.cn/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
 ## 前端工程化
 
 **预处理器**
@@ -74,10 +80,6 @@ Less is more.
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
-**设计资源**
-- [Iconfont](https://www.iconfont.cn/)
-- [Font Awesome](https://fontawesome.com/)
-- [Google Fonts](https://fonts.google.com/)
 
 **其他**
 - [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
@@ -107,7 +109,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
-  - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
   - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme)  Dark theme variables of Ant Design https://ant.design/docs/react/customize-theme
   - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
 - [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
