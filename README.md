@@ -2,8 +2,8 @@
 Less is more.
 
 目录
-- [Web](https://github.com/whinc/awesome-any/blob/master/README.md#web)
 - [前端工程化](https://github.com/whinc/awesome-any/blob/master/README.md#前端工程化)
+- [Web](https://github.com/whinc/awesome-any/blob/master/README.md#web)
 - [React](https://github.com/whinc/awesome-any/blob/master/README.md#react)
 - [Node.js](https://github.com/whinc/awesome-any/blob/master/README.md#nodejs)
 - [标准规范](https://github.com/whinc/awesome-any/blob/master/README.md#标准规范)
