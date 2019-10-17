@@ -11,6 +11,30 @@ Less is more.
 - [桌面工具](https://github.com/whinc/awesome-any/blob/master/README.md#桌面工具)
 - [参考](https://github.com/whinc/awesome-any/blob/master/README.md#参考)
 
+## 前端工程化
+
+**预处理器**
+- [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
+- [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
+- [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine. https://pugjs.org
+
+**打包器**
+- [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. https://webpack.js.org
+- [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
+- [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
+
+**代码质量**
+- [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
+- [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
+
+**测试框架**
+- [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
+- [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
+
+
+**其他**
+- [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
+
 ## Web
 
 **脚手架**
@@ -59,30 +83,6 @@ Less is more.
 - [Iconfont](https://www.iconfont.cn/)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
-
-## 前端工程化
-
-**预处理器**
-- [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
-- [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
-- [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine. https://pugjs.org
-
-**打包器**
-- [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. https://webpack.js.org
-- [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
-- [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
-
-**代码质量**
-- [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
-- [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
-
-**测试框架**
-- [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
-- [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
-
-
-**其他**
-- [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
 
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
