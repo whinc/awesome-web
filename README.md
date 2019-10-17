@@ -128,7 +128,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **Hooks**
 - [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
 
-## [Node.js](https://nodejs.org/en/)
+## [Node.js](https://github.com/nodejs/node)
+
+Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 
 **脚手架**
 - [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
