@@ -3,131 +3,14 @@ Less is more.
 
 目录
 - [Node.js](https://github.com/whinc/awesome-any/blob/master/README.md#nodejs)
-- [前端工程化](https://github.com/whinc/awesome-any/blob/master/README.md#前端工程化)
 - [Web](https://github.com/whinc/awesome-any/blob/master/README.md#web)
+- [前端工程化](https://github.com/whinc/awesome-any/blob/master/README.md#前端工程化)
 - [React](https://github.com/whinc/awesome-any/blob/master/README.md#react)
 - [设计资源](https://github.com/whinc/awesome-any/blob/master/README.md#%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [标准规范](https://github.com/whinc/awesome-any/blob/master/README.md#标准规范)
 - [速查表](https://github.com/whinc/awesome-any/blob/master/README.md#速查表)
 - [桌面工具](https://github.com/whinc/awesome-any/blob/master/README.md#桌面工具)
 - [参考](https://github.com/whinc/awesome-any/blob/master/README.md#参考)
-
-## 前端工程化
-
-**预处理器**
-- [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
-- [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
-- [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine. https://pugjs.org
-
-**打包器**
-- [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. https://webpack.js.org
-- [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
-- [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
-
-**代码质量**
-- [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
-- [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
-
-**测试框架**
-- [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
-- [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
-
-
-**其他**
-- [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
-
-## Web
-
-**脚手架**
-  - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
-
-**CSS 工具**
-  - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
-  - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
-  - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
-  
-**组件库**
-  - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
-  
-**路由**
-  - [vanilla-router](https://github.com/Graidenix/vanilla-router) Vanilla Router for SPA sites
-
-**HTTP 请求**
-  - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
-  - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
-
-**编辑器**
-- [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
-
-**可视化**
-- [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
-- [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案 https://antv.alipay.com/zh-cn/index.html
-  - [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
-  - [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
-  - [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
-- [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
-
-**文本处理**
-- [unified](https://github.com/unifiedjs/unified) friendly interface backed by an ecosystem of plugins built for creating and manipulating content https://unifiedjs.com
-  - [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
-  - [rehype](https://github.com/rehypejs/rehype) HTML processor powered by plugins part of the @unifiedjs collective https://unifiedjs.com
-
-**其他**
-- [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
-- [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
-- [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
-- [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
-- [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
-
-## 设计资源
-- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
-- [Iconfont](https://www.iconfont.cn/)
-- [Font Awesome](https://fontawesome.com/)
-- [Google Fonts](https://fonts.google.com/)
-
-## [React](https://github.com/facebook/react/)
-A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
-
-**脚手架**
-- [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
-- [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
-
-**路由**
-- [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
-
-**样式**
-- [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. https://styled-components.com 
-
-
-**工具库**
-- [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
-- [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
-
-**状态管理**
-- [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
-- [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management. http://mobx.js.org
-- [constate](https://github.com/diegohaz/constate) Scalable state using React Hooks & Context
-
-**组件库**
-- [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
-  - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme)  Dark theme variables of Ant Design https://ant.design/docs/react/customize-theme
-  - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
-- [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
-
-**编辑器**
-- [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
-- [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
-- [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
-
-**特殊组件**
-- [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
-- [react-split-pane](https://github.com/tomkp/react-split-pane) React split-pane component https://react-split-pane.now.sh
-- [react-grid-layout](https://github.com/STRML/react-grid-layout) A draggable and resizable grid layout with responsive breakpoints, for React.
-- [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) Infinite scroll component for React
-- [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) React scrollbars component https://malte-wessel.com/react-custom-scrollbars/
-
-**Hooks**
-- [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
 
 ## [Node.js](https://github.com/nodejs/node)
 
@@ -180,6 +63,126 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js 
 - [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
 - [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
+
+
+## Web
+
+**脚手架**
+  - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
+
+**CSS 工具**
+  - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
+  - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
+  - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
+  
+**组件库**
+  - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
+  
+**路由**
+  - [vanilla-router](https://github.com/Graidenix/vanilla-router) Vanilla Router for SPA sites
+
+**HTTP 请求**
+  - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
+  - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
+
+**编辑器**
+- [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
+
+**可视化**
+- [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
+- [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案 https://antv.alipay.com/zh-cn/index.html
+  - [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
+  - [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
+  - [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
+- [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
+
+**文本处理**
+- [unified](https://github.com/unifiedjs/unified) friendly interface backed by an ecosystem of plugins built for creating and manipulating content https://unifiedjs.com
+  - [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
+  - [rehype](https://github.com/rehypejs/rehype) HTML processor powered by plugins part of the @unifiedjs collective https://unifiedjs.com
+
+**其他**
+- [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
+- [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
+- [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
+- [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
+- [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
+
+## 前端工程化
+
+**预处理器**
+- [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
+- [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
+- [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine. https://pugjs.org
+
+**打包器**
+- [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. https://webpack.js.org
+- [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
+- [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
+
+**代码质量**
+- [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
+- [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
+
+**测试框架**
+- [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
+- [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
+
+
+**其他**
+- [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
+
+
+## 设计资源
+- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
+- [Iconfont](https://www.iconfont.cn/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
+## [React](https://github.com/facebook/react/)
+A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
+
+**脚手架**
+- [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
+- [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
+
+**路由**
+- [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
+
+**样式**
+- [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. https://styled-components.com 
+
+
+**工具库**
+- [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
+- [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
+
+**状态管理**
+- [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
+- [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management. http://mobx.js.org
+- [constate](https://github.com/diegohaz/constate) Scalable state using React Hooks & Context
+
+**组件库**
+- [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
+  - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme)  Dark theme variables of Ant Design https://ant.design/docs/react/customize-theme
+  - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
+- [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
+
+**编辑器**
+- [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
+- [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
+- [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
+
+**特殊组件**
+- [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
+- [react-split-pane](https://github.com/tomkp/react-split-pane) React split-pane component https://react-split-pane.now.sh
+- [react-grid-layout](https://github.com/STRML/react-grid-layout) A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) Infinite scroll component for React
+- [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) React scrollbars component https://malte-wessel.com/react-custom-scrollbars/
+
+**Hooks**
+- [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
+
 
 ## 标准规范
 - [estree](https://github.com/estree/estree) The ESTree Spec
