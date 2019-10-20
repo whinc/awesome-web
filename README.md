@@ -17,6 +17,9 @@ Less is more.
 Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 
 **脚手架**
+- [nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions
+- [nodemon](https://github.com/remy/nodemon) Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/ 
+- [ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js 
 - [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 - [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
@@ -58,9 +61,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
 - [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 - [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
-- [nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions
-- [nodemon](https://github.com/remy/nodemon) Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/ 
-- [ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js 
 - [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
 - [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
 
