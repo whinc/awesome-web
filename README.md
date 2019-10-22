@@ -160,6 +160,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **状态管理**
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
 - [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management. http://mobx.js.org
+  - [mobx-react](https://github.com/mobxjs/mobx-react) React bindings for MobX
+  - [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)  Lightweight React bindings for MobX based on React 16.8 and Hooks https://mobx-react.js.org
+  - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX
 - [constate](https://github.com/diegohaz/constate) Scalable state using React Hooks & Context
 
 **组件库**
