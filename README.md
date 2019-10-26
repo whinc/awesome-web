@@ -9,7 +9,7 @@ Less is more.
 - [设计资源](https://github.com/whinc/awesome-any/blob/master/README.md#%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [标准规范](https://github.com/whinc/awesome-any/blob/master/README.md#标准规范)
 - [速查表](https://github.com/whinc/awesome-any/blob/master/README.md#速查表)
-- [桌面工具](https://github.com/whinc/awesome-any/blob/master/README.md#桌面工具)
+- [工具](https://github.com/whinc/awesome-any/blob/master/README.md#桌面工具)
 - [参考](https://github.com/whinc/awesome-any/blob/master/README.md#参考)
 
 ## [Node.js](https://github.com/nodejs/node)
@@ -206,6 +206,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [Snipaste](https://zh.snipaste.com/index.html) 一个简单但强大的截图工具
 - [artipub](https://github.com/crawlab-team/artipub) Article publishing platform that automatically distributes your articles to various media channels
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. http://www.screentogif.com
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) CLI that generates beautiful README.md files
 
 ## 参考
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
