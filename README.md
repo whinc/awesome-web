@@ -24,11 +24,13 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
-**工具库**
+**JS 库**
 - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
 - [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
 - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
 - [log4js-node](https://github.com/log4js-node/log4js-node) A port of log4js to node.js
+- [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation (node & browser)
+- [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
 
 **配置**
 - [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
@@ -57,13 +59,13 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 
 **杂项**
 - [tapable](https://github.com/webpack/tapable) Just a little module for plugins.
-- [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation (node & browser)
-- [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
 - [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 - [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
 - [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
-- [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
 
+**运维**
+- [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
+- [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
 ## Web
 
@@ -84,6 +86,7 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 **HTTP 请求**
   - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
   - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
+  
 
 **编辑器**
 - [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
