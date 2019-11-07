@@ -69,8 +69,8 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
   
 **JS 库（Browser & Node.js）**
   - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
-  - [observer-util](https://github.com/nx-js/observer-util)
-  - [compiler-util](https://github.com/nx-js/compiler-util)
+  - [observer-util](https://github.com/nx-js/observer-util) Transparent reactivity with 100% language coverage. Made with ❤️ and ES6 Proxies.
+  - [compiler-util](https://github.com/nx-js/compiler-util) An NX utility, responsible for executing code in the context of an object.
   - [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
   - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
 
