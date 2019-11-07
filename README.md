@@ -24,13 +24,8 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
-**JS 库**
-- [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
-- [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
-- [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
+**日志**
 - [log4js-node](https://github.com/log4js-node/log4js-node) A port of log4js to node.js
-- [memoize-one](https://github.com/alexreardon/memoize-one): A memoization library which only remembers the latest invocation (node & browser)
-- [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js):  Fastest possible memoization library https://npm.im/fast-memoize (node & browser)
 
 **配置**
 - [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
@@ -71,25 +66,22 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 
 **脚手架**
   - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
+  
+**JS 库（Browser & Node.js）**
+  - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
+  - [observer-util](https://github.com/nx-js/observer-util)
+  - [compiler-util](https://github.com/nx-js/compiler-util)
+  - [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+  - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
 
-**CSS 工具**
-  - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
+**CSS 库**
   - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
   - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
-  
-**组件库**
   - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
-  
-**路由**
-  - [vanilla-router](https://github.com/Graidenix/vanilla-router) Vanilla Router for SPA sites
 
-**HTTP 请求**
+**网络**
   - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
   - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
-  
-
-**编辑器**
-- [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/ 
 
 **可视化**
 - [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
@@ -105,6 +97,8 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
   - [rehype](https://github.com/rehypejs/rehype) HTML processor powered by plugins part of the @unifiedjs collective https://unifiedjs.com
 
 **其他**
+- [vanilla-router](https://github.com/Graidenix/vanilla-router) Vanilla Router for SPA sites
+- [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/
 - [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
 - [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
 - [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
