@@ -4,13 +4,13 @@ Less is more.
 目录
 - [Node.js](#nodejs)
 - [Web](#web)
-- [前端工程化](https://github.com/whinc/awesome-any/blob/master/README.md#前端工程化)
-- [React](https://github.com/whinc/awesome-any/blob/master/README.md#react)
-- [设计资源](https://github.com/whinc/awesome-any/blob/master/README.md#%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90)
-- [标准规范](https://github.com/whinc/awesome-any/blob/master/README.md#标准规范)
-- [速查表](https://github.com/whinc/awesome-any/blob/master/README.md#速查表)
-- [工具](https://github.com/whinc/awesome-any/blob/master/README.md#桌面工具)
-- [参考](https://github.com/whinc/awesome-any/blob/master/README.md#参考)
+- [前端工程化](#前端工程化)
+- [React](#react)
+- [设计资源](#%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90)
+- [标准规范](#标准规范)
+- [速查表](#速查表)
+- [工具](#桌面工具)
+- [参考](#参考)
 
 ## [Node.js](https://github.com/nodejs/node)
 
