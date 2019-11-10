@@ -2,8 +2,8 @@
 Less is more.
 
 目录
-- [Node.js](https://github.com/whinc/awesome-any/blob/master/README.md#nodejs)
-- [Web](https://github.com/whinc/awesome-any/blob/master/README.md#web)
+- [Node.js](#nodejs)
+- [Web](#web)
 - [前端工程化](https://github.com/whinc/awesome-any/blob/master/README.md#前端工程化)
 - [React](https://github.com/whinc/awesome-any/blob/master/README.md#react)
 - [设计资源](https://github.com/whinc/awesome-any/blob/master/README.md#%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90)
@@ -108,6 +108,9 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
 ## 前端工程化
+
+**TypeScript**
+- [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
 
 **预处理器**
 - [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
