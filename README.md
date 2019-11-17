@@ -16,13 +16,10 @@ Less is more.
 
 Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 
-**脚手架**
+**开发工具**
 - [nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [nodemon](https://github.com/remy/nodemon) Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/ 
 - [ts-node](https://github.com/TypeStrong/ts-node) TypeScript execution and REPL for node.js 
-- [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
-- [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
-- [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
 **日志**
 - [log4js-node](https://github.com/log4js-node/log4js-node) A port of log4js to node.js
@@ -157,6 +154,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 ## 前端工程化
 
+**脚手架**
+- [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
+- [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
+
 **TypeScript**
 - [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
 
@@ -177,6 +178,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **测试框架**
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
+
+**发布**
+- [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
 
 **其他**
