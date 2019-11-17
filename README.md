@@ -161,14 +161,15 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **代码质量**
 - [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
 - [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
-
+- [stylelint](https://github.com/stylelint/stylelint) A mighty, modern style linter https://stylelint.io/
+ 
 **测试框架**
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
 **API文档**
 - [jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript. https://jsdoc.app/ 
-- [TypeDoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
+- [typedoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
 
 **静态网站**
 - [docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
@@ -176,6 +177,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **发布**
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
+**工具**
+- [husky](https://github.com/typicode/husky)  Git hooks made easy
+- [lint-staged](https://github.com/okonet/lint-staged) Run linters on git staged files
+- [cz-cli](https://github.com/commitizen/cz-cli) The commitizen command line utility
 
 **其他**
 - [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
