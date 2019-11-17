@@ -60,9 +60,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
 ## Web
-
-**脚手架**
-  - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
   
 **JS 库（Browser & Node.js）**
   - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
@@ -108,10 +105,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
 
-**脚手架**
-- [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
-- [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
-
 **路由**
 - [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
@@ -155,6 +148,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 ## 前端工程化
 
 **脚手架**
+- [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
+  - [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
 - [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 - [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 
