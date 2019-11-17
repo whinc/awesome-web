@@ -1,5 +1,5 @@
 # awesome-any
-Less is more.
+记录我使用过并且觉得好用的工具，随着工具更新换代，此清单也会随之更新。
 
 目录
 - [Node.js](#nodejs)
