@@ -43,11 +43,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. http://antlr.org 
 - [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) Optimized TypeScript target for ANTLR 4 
 - [pegjs](https://github.com/pegjs/pegjs) PEG.js: Parser generator for JavaScript https://pegjs.org/ 
-## 文档
-- [jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript. https://jsdoc.app/ 
-- [TypeDoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
-- [docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
-- [jekyll](https://github.com/jekyll/jekyll)  Jekyll is a blog-aware static site generator in Ruby https://jekyllrb.com
 
 **杂项**
 - [tapable](https://github.com/webpack/tapable) Just a little module for plugins.
@@ -153,18 +148,15 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 - [oclif](https://github.com/oclif/oclif) Node.js Open CLI Framework. https://oclif.io
 
-**TypeScript**
-- [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
+**打包器**
+- [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. https://webpack.js.org
+- [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
+- [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
 
 **预处理器**
 - [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
 - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
 - [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine. https://pugjs.org
-
-**打包器**
-- [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. https://webpack.js.org
-- [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler https://rollupjs.org
-- [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
 
 **代码质量**
 - [prettier](https://github.com/prettier/prettier) Prettier is an opinionated code formatter. https://prettier.io
@@ -174,11 +166,19 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
+**API文档**
+- [jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript. https://jsdoc.app/ 
+- [TypeDoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
+
+**静态网站**
+- [docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
+
 **发布**
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
 
 
 **其他**
+- [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
 - [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
 
 ## 设计资源
