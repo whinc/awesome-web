@@ -115,6 +115,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **状态管理**
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
+  - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux https://react-redux.js.org
+  - [dva](https://github.com/dvajs/dva) React and redux based, lightweight and elm-style framework. https://dvajs.com/
 - [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management. http://mobx.js.org
   - [mobx-react](https://github.com/mobxjs/mobx-react) React bindings for MobX
   - [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)  Lightweight React bindings for MobX based on React 16.8 and Hooks https://mobx-react.js.org
