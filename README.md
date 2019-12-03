@@ -126,6 +126,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **工具库**
 - [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
 - [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
+- [normalizr](https://github.com/paularmstrong/normalizr) Normalizes nested JSON according to a schema
 
 **编辑器**
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
