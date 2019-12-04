@@ -2,15 +2,19 @@
 记录我使用过并且觉得好用的工具，随着工具更新换代，此清单也会随之更新。
 
 目录
-- [Node.js](#nodejs)
+- [DevOps](#DevOps)
+- [Node.js](#Nodejs)
 - [Web](#web)
 - [React](#react)
 - [前端工程化](#前端工程化)
-- [设计资源](#%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [标准规范](#标准规范)
 - [速查表](#速查表)
 - [工具](#桌面工具)
 - [参考](#参考)
+
+## DevOps
+
+- [Nginx](https://nginx.org/en/docs/)
 
 ## [Node.js](https://github.com/nodejs/node)
 
@@ -91,6 +95,12 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [unified](https://github.com/unifiedjs/unified) friendly interface backed by an ecosystem of plugins built for creating and manipulating content https://unifiedjs.com
   - [remark](https://github.com/remarkjs/remark) Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org
   - [rehype](https://github.com/rehypejs/rehype) HTML processor powered by plugins part of the @unifiedjs collective https://unifiedjs.com
+  
+**字体图标**
+- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
+- [Iconfont](https://www.iconfont.cn/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 **其他**
 - [vanilla-router](https://github.com/Graidenix/vanilla-router) Vanilla Router for SPA sites
@@ -197,13 +207,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
 - [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
 
-## 设计资源
-- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
-- [Iconfont](https://www.iconfont.cn/)
-- [Font Awesome](https://fontawesome.com/)
-- [Google Fonts](https://fonts.google.com/)
-
-## 标准规范
+## 技术规范
 - [estree](https://github.com/estree/estree) The ESTree Spec
 - [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
