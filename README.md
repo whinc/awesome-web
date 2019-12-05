@@ -14,11 +14,12 @@
 
 ## DevOps
 
-- [Nginx](https://nginx.org/en/docs/)
+- [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
+- [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
 ## [Node.js](https://github.com/nodejs/node)
 
-Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
+Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 
 **开发工具**
 - [nvm](https://github.com/creationix/nvm) Node Version Manager - Simple bash script to manage multiple active node.js versions
@@ -59,9 +60,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([Chinese](http://nodejs.cn/))
 - [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
 - [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
 
-**运维**
-- [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
-- [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
 ## Web
   
