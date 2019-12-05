@@ -8,8 +8,7 @@
 - [React](#react)
 - [前端工程化](#前端工程化)
 - [技术规范](#技术规范)
-- [速查表](#速查表)
-- [工具](#桌面工具)
+- [软件工具](#软件工具)
 - [参考](#参考)
 
 ## DevOps
@@ -211,13 +210,21 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
 
-## 速查表
+
+## 软件工具
+
+**Linux 装机必备**
+- zsh
+- tmux
+
+
+**速查表**
 - [Git](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt)
 - [Bash](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh)
 - [Tmux](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt)
 - [Vim](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
 
-## 桌面工具
+**桌面软件**
 - [carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 - [PicGo](https://github.com/Molunerfinn/PicGo) A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
