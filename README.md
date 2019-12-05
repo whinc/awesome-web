@@ -214,6 +214,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 ## 软件工具
 
 **Linux 装机必备**
+- vim
+- [vimrc](https://github.com/amix/vimrc) The ultimate Vim configuration: vimrc
 - zsh
 - tmux
 
