@@ -2,9 +2,9 @@
 记录我使用过并且觉得好用的工具，随着工具更新换代，此清单也会随之更新。
 
 目录
-- [W3C Web](#W3CWeb)
+- [W3C Web](#W3C-Web)
 - [React](#react)
-- [Frontend Engineering](#FrontendEngineering)
+- [Frontend Engineering](#Frontend-Engineering)
 - [Node.js](#Nodejs)
 - [Deno](#Deno)
 - [DevOps](#DevOps)
