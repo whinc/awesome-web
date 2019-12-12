@@ -2,7 +2,7 @@
 记录我使用过并且觉得好用的工具，随着工具更新换代，此清单也会随之更新。
 
 目录
-- [W3C Web](#W3C-Web)
+- [Web](#Web)
 - [React](#react)
 - [Frontend Engineering](#Frontend-Engineering)
 - [Node.js](#Nodejs)
@@ -14,7 +14,7 @@
 
 
 
-## W3C Web
+## Web
   
 **JS 库（Browser & Node.js）**
   - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
