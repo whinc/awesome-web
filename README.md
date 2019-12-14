@@ -1,18 +1,6 @@
 # awesome-any
 记录我使用过并且觉得好用的工具，随着工具更新换代，此清单也会随之更新。
 
-目录
-- [Web](#Web)
-- [React](#react)
-- [Frontend Engineering](#Frontend-Engineering)
-- [Node.js](#Nodejs)
-- [Deno](#Deno)
-- [DevOps](#DevOps)
-- [Specification](#Specification)
-- [Software](#Software)
-- [References](#References)
-
-
 
 <details><summary>Web</summary><p>
 
@@ -68,7 +56,7 @@
 
 </p></details>
 
-<details><summary>React</summary><p>
+<details><summary>[React](https://github.com/facebook/react/)</summary><p>
   
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
