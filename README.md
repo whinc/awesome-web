@@ -56,7 +56,7 @@
 
 </p></details>
 
-<details><summary><a href='#React'>React</a></summary><p>
+<details><summary>React</summary><p>
   
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
