@@ -14,6 +14,8 @@
 
 
 
+<details><summary>Web</summary><p>
+
 ## Web
   
 **JS 库（Browser & Node.js）**
@@ -64,7 +66,10 @@
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
 - [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
 
+</p></details>
 
+<details><summary>React</summary><p>
+  
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
 
@@ -115,7 +120,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) Infinite scroll component for React
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) React scrollbars component https://malte-wessel.com/react-custom-scrollbars/
 
+</p></details>
 
+<details><summary>Frontend Engineering</summary><p>
+  
 ## Frontend Engineering
 
 **打包器**
@@ -154,11 +162,12 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [husky](https://github.com/typicode/husky)  Git hooks made easy
 - [lint-staged](https://github.com/okonet/lint-staged) Run linters on git staged files
 - [cz-cli](https://github.com/commitizen/cz-cli) The commitizen command line utility
-
-**其他**
-- [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
 - [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
 
+</p></details>
+
+<details><summary>Node.js</summary><p>
+  
 ## [Node.js](https://github.com/nodejs/node)
 
 Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
@@ -206,16 +215,27 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 - [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
 - [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
 
+</p></details>
+
+<details><summary>Deno</summary><p>
+  
 ## [Deno](https://github.com/denoland/deno)
 
 A secure JavaScript and TypeScript runtime https://deno.land/
+
+</p></details>
+
+<details><summary>DevOps</summary><p>
 
 ## DevOps
 
 - [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
 - [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
+</p></details>
 
+<details><summary>Specification</summary><p>
+  
 ## Specification
 
 - [estree](https://github.com/estree/estree) The ESTree Spec
@@ -223,7 +243,10 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
 
+</p></details>
 
+<details><summary>Software</summary><p>
+  
 ## Software
 
 **Linux 装机必备**
@@ -247,6 +270,8 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [artipub](https://github.com/crawlab-team/artipub) Article publishing platform that automatically distributes your articles to various media channels
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. http://www.screentogif.com
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) CLI that generates beautiful README.md files
+
+</p></details>
 
 ## References
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
