@@ -244,12 +244,6 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - tmux
 
 
-**速查表**
-- [Git](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt)
-- [Bash](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh)
-- [Tmux](https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/tmux.txt)
-- [Vim](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
-
 **桌面软件**
 - [carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
