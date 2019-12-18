@@ -243,16 +243,15 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [vimrc](https://github.com/amix/vimrc) The ultimate Vim configuration: vimrc
 - zsh
 - tmux
-
+- [VSCode](https://code.visualstudio.com/)
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 
 **桌面软件**
 - [carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
 - [PicGo](https://github.com/Molunerfinn/PicGo) A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
 - [Snipaste](https://zh.snipaste.com/index.html) 一个简单但强大的截图工具
 - [artipub](https://github.com/crawlab-team/artipub) Article publishing platform that automatically distributes your articles to various media channels
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. http://www.screentogif.com
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) CLI that generates beautiful README.md files
 
 </p></details>
 
