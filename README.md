@@ -239,12 +239,13 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 ## Software
 
 **Linux 装机必备**
-- vim
-- [vimrc](https://github.com/amix/vimrc) The ultimate Vim configuration: vimrc
-- zsh
+- vim: https://www.vim.org/
+- [vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration: vimrc
+- zsh: http://zsh.sourceforge.net/
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven framework for managing your zsh configuration. https://ohmyz.sh/
 - tmux
-- [VSCode](https://code.visualstudio.com/)
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
+- [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 
 **桌面软件**
 - [carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
