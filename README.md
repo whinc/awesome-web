@@ -64,6 +64,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **脚手架**
 - [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
   - [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
+- [next.js](https://github.com/zeit/next.js) The React Framework https://nextjs.org
 - [umi](https://github.com/umijs/umi) Pluggable enterprise-level react application framework. https://umijs.org/zh/
 - [gatsby](https://github.com/gatsbyjs/gatsby) Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
