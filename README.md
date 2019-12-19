@@ -20,6 +20,7 @@
   
 **CSS 工具**
   - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
+  - [emotion](https://github.com/emotion-js/emotion) CSS-in-JS library designed for high performance style composition https://emotion.sh/
   - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
 
 **网络**
@@ -71,8 +72,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **路由**
 - [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
-**样式**
+**CSS-in-JS**
 - [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. https://styled-components.com 
+- [emotion](https://github.com/emotion-js/emotion) CSS-in-JS library designed for high performance style composition https://emotion.sh/
 
 **UI 组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
