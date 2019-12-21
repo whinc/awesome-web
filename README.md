@@ -22,6 +22,7 @@
   - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library https://linaria.now.sh
   - [emotion](https://github.com/emotion-js/emotion) CSS-in-JS library designed for high performance style composition https://emotion.sh/
   - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
+  - [typography.js](https://github.com/KyleAMathews/typography.js) A powerful toolkit for building websites with beautiful typography.
 
 **网络**
   - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
@@ -103,13 +104,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
-
-**特殊组件**
-- [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
-- [react-split-pane](https://github.com/tomkp/react-split-pane) React split-pane component https://react-split-pane.now.sh
-- [react-grid-layout](https://github.com/STRML/react-grid-layout) A draggable and resizable grid layout with responsive breakpoints, for React.
-- [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) Infinite scroll component for React
-- [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) React scrollbars component https://malte-wessel.com/react-custom-scrollbars/
 
 </p></details>
 
