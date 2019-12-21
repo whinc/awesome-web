@@ -66,7 +66,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
   - [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
 - [next.js](https://github.com/zeit/next.js) The React Framework https://nextjs.org
-- [umi](https://github.com/umijs/umi) Pluggable enterprise-level react application framework. https://umijs.org/zh/
 - [gatsby](https://github.com/gatsbyjs/gatsby) Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
 **路由**
@@ -181,7 +180,7 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 **日志**
 - [log4js-node](https://github.com/log4js-node/log4js-node) A port of log4js to node.js
 
-**配置**
+**环境变量 & 配置文件**
 - [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
 - [dotenv-expand](https://github.com/motdotla/dotenv-expand) Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) Find and load configuration from a package.json property, rc file, or CommonJS module
