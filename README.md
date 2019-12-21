@@ -6,13 +6,6 @@
 
 ## Web
   
-**JS 库（Browser & Node.js）**
-  - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
-  - [observer-util](https://github.com/nx-js/observer-util) Transparent reactivity with 100% language coverage. Made with ❤️ and ES6 Proxies.
-  - [compiler-util](https://github.com/nx-js/compiler-util) An NX utility, responsible for executing code in the context of an object.
-  - [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
-  - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
-
 **UI 组件库**
   - [bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io 
   - [bootstrap](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. https://getbootstrap.com
@@ -180,6 +173,11 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) Find and load configuration from a package.json property, rc file, or CommonJS module
 - [env-cmd](https://github.com/toddbluhm/env-cmd) Setting the environment from a file
 
+**日期**
+  - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
+  - [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+  - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
+
 **浏览器**
 - [jsdom](https://github.com/jsdom/jsdom) A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API https://pptr.dev 
@@ -198,7 +196,7 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 - [tapable](https://github.com/webpack/tapable) Just a little module for plugins.
 - [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
 - [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
-- [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds  
+- [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds
 
 </p></details>
 
