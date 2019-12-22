@@ -6,32 +6,26 @@
 
 ## Web
   
+**设计语言**
+- [Material Design](https://material.io/) Build beautiful products, faster.
+- [Ant Design](https://ant.design/index-cn) 
+
 **字体图标**
-- [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
 - [Iconfont](https://www.iconfont.cn/)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
-
-**CSS 工具**
-  - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨ https://polished.js.org/
-  - [typography.js](https://github.com/KyleAMathews/typography.js) A powerful toolkit for building websites with beautiful typography.
-
-**网络**
-  - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
-  - [api-sharp](https://github.com/whinc/api-sharp) Customizable, configuration-based, cross-platform javascript HTTP client. 
+- [typography.js](https://github.com/KyleAMathews/typography.js) A powerful toolkit for building websites with beautiful typography.
 
 **可视化**
 - [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
 - [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案 https://antv.alipay.com/zh-cn/index.html
-  - [g2](https://github.com/antvis/g2) The Grammar of Graphics in JavaScript
-  - [g6](https://github.com/antvis/g6) A Graph Visualization Framework in JavaScript
-  - [f2](https://github.com/antvis/f2) An elegant, interactive and flexible charting library for mobile.
 - [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
 
 **编辑器**
 - [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/
 
 **其他**
+- [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 - [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
 - [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
