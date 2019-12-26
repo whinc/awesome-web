@@ -11,7 +11,7 @@
 - [Ant Design](https://ant.design/index-cn) 
 
 **字体图标**
-- [Iconfont](https://www.iconfont.cn/)
+- [Iconfont](https://www.iconfont.cn/) 阿里矢量图标管理、交流平台。
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [typography.js](https://github.com/KyleAMathews/typography.js) A powerful toolkit for building websites with beautiful typography.
