@@ -48,13 +48,12 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
 **CSS-in-JS**
-- [styled-components](https://github.com/styled-components/styled-components) Visual primitives for the component age. https://styled-components.com 
+- [styled-components](https://github.com/styled-components/styled-components) Use the best bits of ES6 and CSS to style your apps without stress 💅 https://styled-components.com
 - [emotion](https://github.com/emotion-js/emotion) CSS-in-JS library designed for high performance style composition https://emotion.sh/
+- [jss](https://github.com/cssinjs/jss) JSS is an authoring tool for CSS which uses JavaScript as a host language. https://cssinjs.org
 
 **UI 组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
-  - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme)  Dark theme variables of Ant Design https://ant.design/docs/react/customize-theme
-  - [ant-motion](https://github.com/ant-design/ant-motion) Animate specification and components of Ant Design http://motion.ant.design
 - [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
 
 **状态管理**
