@@ -74,6 +74,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **Hooks**
 - [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
+- [@umijs/hooks](https://github.com/umijs/hooks) React Hooks Library https://hooks.umijs.org/
 
 **编辑器**
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
