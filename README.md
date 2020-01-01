@@ -175,6 +175,10 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 - [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) Optimized TypeScript target for ANTLR 4 
 - [pegjs](https://github.com/pegjs/pegjs) PEG.js: Parser generator for JavaScript https://pegjs.org/ 
 
+**glob**
+- [minimatch](https://github.com/isaacs/minimatch) a glob matcher in javascript
+- [node-glob](https://github.com/isaacs/node-glob) Match files using the patterns the shell uses, like stars and stuff.
+
 **杂项**
 - [tapable](https://github.com/webpack/tapable) Just a little module for plugins.
 - [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
