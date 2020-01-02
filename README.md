@@ -55,7 +55,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **UI 组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
 - [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
-  - [notistack](https://github.com/iamhosseindhv/notistack) Highly customizable notification snackbars (toasts) that can be stacked on top of each other https://iamhosseindhv.com/notistack
 
 **状态管理**
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
