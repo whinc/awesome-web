@@ -224,21 +224,19 @@ A secure JavaScript and TypeScript runtime https://deno.land/
   
 ## Software
 
-**Linux 装机必备**
+**Linux 命令行工具**
 - vim: https://www.vim.org/
 - [vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration: vimrc
 - zsh: http://zsh.sourceforge.net/
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven framework for managing your zsh configuration. https://ohmyz.sh/
 - tmux
+- git
+- tig
+
+**其他软件**
 - [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 
-**桌面软件**
-- [carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code https://carbon.now.sh
-- [PicGo](https://github.com/Molunerfinn/PicGo) A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
-- [Snipaste](https://zh.snipaste.com/index.html) 一个简单但强大的截图工具
-- [artipub](https://github.com/crawlab-team/artipub) Article publishing platform that automatically distributes your articles to various media channels
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. http://www.screentogif.com
 
 </p></details>
 
