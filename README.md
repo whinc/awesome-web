@@ -82,6 +82,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [@umijs/hooks](https://github.com/umijs/hooks) React Hooks Library https://hooks.umijs.org/
 
 **编辑器**
+- [slate](https://github.com/ianstormtaylor/slate) A completely customizable framework for building rich text editors. http://slatejs.org
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
