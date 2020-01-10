@@ -10,10 +10,6 @@
 - [Bootstrap](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. https://getbootstrap.com
 - [Bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io
   
-**设计语言**
-- [Material Design](https://material.io/) Build beautiful products, faster.
-- [Ant Design](https://ant.design/index-cn) 
-
 **图标**
 - [Iconfont](https://www.iconfont.cn/) 阿里矢量图标管理、交流平台。
 - [Font Awesome](https://fontawesome.com/)
@@ -54,9 +50,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
 **CSS-in-JS**
-- [styled-components](https://github.com/styled-components/styled-components) Use the best bits of ES6 and CSS to style your apps without stress 💅 https://styled-components.com
-- [emotion](https://github.com/emotion-js/emotion) CSS-in-JS library designed for high performance style composition https://emotion.sh/
 - [jss](https://github.com/cssinjs/jss) JSS is an authoring tool for CSS which uses JavaScript as a host language. https://cssinjs.org
+- [styled-components](https://github.com/styled-components/styled-components) Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com
+- [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript  https://polished.js.org/
+- [clsx](https://github.com/lukeed/clsx) A tiny utility for constructing `className` strings conditionally.
 
 **UI 组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
