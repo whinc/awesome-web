@@ -40,14 +40,13 @@
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
 
-**脚手架**
-- [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
-  - [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
+**框架**
 - [next.js](https://github.com/zeit/next.js) The React Framework https://nextjs.org
 - [gatsby](https://github.com/gatsbyjs/gatsby) Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
-**路由**
-- [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
+**脚手架**
+- [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
+  - [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
 
 **CSS-in-JS**
 - [jss](https://github.com/cssinjs/jss) JSS is an authoring tool for CSS which uses JavaScript as a host language. https://cssinjs.org
@@ -55,9 +54,12 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript  https://polished.js.org/
 - [clsx](https://github.com/lukeed/clsx) A tiny utility for constructing `className` strings conditionally.
 
-**UI 组件库**
+**组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
 - [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
+
+**路由**
+- [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React https://reacttraining.com/react-router/
 
 **状态管理**
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
