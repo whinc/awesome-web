@@ -26,6 +26,10 @@
 **编辑器**
 - [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/
 
+**代码高亮**
+- [prism](https://github.com/PrismJS/prism) Lightweight, robust, elegant syntax highlighting. http://prismjs.com
+- [highlight.js](https://github.com/highlightjs/highlight.js) Javascript syntax highlighter https://highlightjs.org/
+
 **其他**
 - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 - [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
@@ -74,7 +78,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **工具库**
 - [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
 - [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
-- [normalizr](https://github.com/paularmstrong/normalizr) Normalizes nested JSON according to a schema
 
 **Hooks**
 - [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
@@ -85,6 +88,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
+
+**代码高亮**
+- [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) Renders highlighted Prism output to React (+ theming & vendored Prism)
 
 </p></details>
 
