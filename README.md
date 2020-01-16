@@ -68,6 +68,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **状态管理**
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
   - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux https://react-redux.js.org
+  - [redux-toolkit](https://github.com/reduxjs/redux-toolkit) The official, opinionated, batteries-included toolset for efficient Redux development https://redux-toolkit.js.org
+  - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) Redux DevTools extension. http://extension.remotedev.io
+  - [rematch](https://github.com/rematch/rematch) A Redux Framework https://rematch.github.io/rematch/
   - [dva](https://github.com/dvajs/dva) React and redux based, lightweight and elm-style framework. https://dvajs.com/
 - [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management. http://mobx.js.org
   - [mobx-react](https://github.com/mobxjs/mobx-react) React bindings for MobX
