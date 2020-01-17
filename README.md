@@ -69,6 +69,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps http://redux.js.org
   - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux https://react-redux.js.org
   - [redux-toolkit](https://github.com/reduxjs/redux-toolkit) The official, opinionated, batteries-included toolset for efficient Redux development https://redux-toolkit.js.org
+  - [reselect](https://github.com/reduxjs/reselect) Selector library for Redux
   - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) Redux DevTools extension. http://extension.remotedev.io
   - [rematch](https://github.com/rematch/rematch) A Redux Framework https://rematch.github.io/rematch/
   - [dva](https://github.com/dvajs/dva) React and redux based, lightweight and elm-style framework. https://dvajs.com/
