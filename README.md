@@ -54,6 +54,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **CSS-in-JS**
 - [jss](https://github.com/cssinjs/jss) JSS is an authoring tool for CSS which uses JavaScript as a host language. https://cssinjs.org
+- [emotion](https://github.com/emotion-js/emotion) CSS-in-JS library designed for high performance style composition https://emotion.sh/
 - [styled-components](https://github.com/styled-components/styled-components) Use the best bits of ES6 and CSS to style your apps without stress https://styled-components.com
 - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript  https://polished.js.org/
 - [clsx](https://github.com/lukeed/clsx) A tiny utility for constructing `className` strings conditionally.
