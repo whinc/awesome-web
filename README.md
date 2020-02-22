@@ -120,7 +120,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [stylelint](https://github.com/stylelint/stylelint) A mighty, modern style linter https://stylelint.io/
  
 **测试框架**
-- [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io 
+- [testing-library](https://github.com/testing-library) Simple and complete testing utilities that encourage good testing practices https://testing-library.com/
+- [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
 **API文档**
