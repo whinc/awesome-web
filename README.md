@@ -121,6 +121,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
  
 **测试框架**
 - [testing-library](https://github.com/testing-library) Simple and complete testing utilities that encourage good testing practices https://testing-library.com/
+- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) Simple and complete React hooks testing utilities that encourage good testing practices. https://react-hooks-testing-library.com
 - [jest](https://github.com/facebook/jest) Delightful JavaScript Testing. https://jestjs.io
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
