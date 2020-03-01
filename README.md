@@ -128,6 +128,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [storybook](https://github.com/storybookjs/storybook) UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! https://storybook.js.org 
 
 **API文档**
+- [tsdoc](https://github.com/microsoft/tsdoc) A doc comment standard for the TypeScript language https://microsoft.github.io/tsdoc/
 - [jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript. https://jsdoc.app/ 
 - [typedoc](https://github.com/TypeStrong/TypeDoc) Documentation generator for TypeScript projects. https://typedoc.org 
 
