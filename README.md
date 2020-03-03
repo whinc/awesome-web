@@ -136,15 +136,19 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites. https://docusaurus.io 
 
 **发布**
+- [standard-version](https://github.com/conventional-changelog/standard-version) Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing https://semantic-release.gitbook.io
+>参考：[约定式提交规范](https://www.conventionalcommits.org/zh-hans)
 
 **部署**
 - [now](https://github.com/zeit/now) The easiest way to deploy websites https://zeit.co
 
-**其他工具**
+**Git 提交**
 - [husky](https://github.com/typicode/husky)  Git hooks made easy
 - [lint-staged](https://github.com/okonet/lint-staged) Run linters on git staged files
 - [cz-cli](https://github.com/commitizen/cz-cli) The commitizen command line utility
+
+**其他工具**
 - [browserslist](https://github.com/browserslist/browserslist) Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env https://twitter.com/browserslist
 
 </p></details>
