@@ -91,13 +91,12 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [use-immer](https://github.com/immerjs/use-immer) Use immer to drive state with a React hooks
 - [@umijs/hooks](https://github.com/umijs/hooks) React Hooks Library https://hooks.umijs.org/
 
-**编辑器**
+**精选组件**
 - [slate](https://github.com/ianstormtaylor/slate) A completely customizable framework for building rich text editors. http://slatejs.org
 - [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
 - [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
-
-**代码高亮**
+- [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) Renders highlighted Prism output to React (+ theming & vendored Prism)
 
 </p></details>
