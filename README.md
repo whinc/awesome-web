@@ -99,6 +99,11 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) Renders highlighted Prism output to React (+ theming & vendored Prism)
 
+**参考**
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+
 </p></details>
 
 <details><summary>Frontend Engineering</summary><p>
@@ -112,6 +117,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **预处理器**
 - [babel](https://github.com/babel/babel)  Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
+- [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) Allows you to build simple compile-time libraries 
+  - [awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros)
 - [sass](https://github.com/sass/sass) Sass makes CSS fun! https://sass-lang.com
 - [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine. https://pugjs.org
 
@@ -262,8 +269,6 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 
 ## References
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
-* [awesome-react](https://github.com/enaqx/awesome-react)
 * [Open Source Awards](https://osawards.com/)
 * [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
-* [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
-* [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+
