@@ -180,19 +180,15 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 - [express](https://github.com/expressjs/express/) Fast, unopinionated, minimalist web framework for node. https://expressjs.com
 - [egg](https://github.com/eggjs/egg) Born to build better enterprise frameworks and apps with Node.js & Koa https://eggjs.org/zh-cn/
 
-**日志**
-- [log4js-node](https://github.com/log4js-node/log4js-node) A port of log4js to node.js
-
-**环境变量 & 配置文件**
+**基础库**
+- [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
+- [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+- [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
+- [minimatch](https://github.com/isaacs/minimatch) a glob matcher in javascript
+- [node-glob](https://github.com/isaacs/node-glob) Match files using the patterns the shell uses, like stars and stuff.
 - [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects. 
 - [dotenv-expand](https://github.com/motdotla/dotenv-expand) Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
-- [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) Find and load configuration from a package.json property, rc file, or CommonJS module
-- [env-cmd](https://github.com/toddbluhm/env-cmd) Setting the environment from a file
-
-**日期**
-  - [lodash](https://github.com/lodash/lodash/) A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
-  - [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
-  - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library  https://date-fns.org
+- [log4js-node](https://github.com/log4js-node/log4js-node) A port of log4js to node.js
 
 **浏览器**
 - [jsdom](https://github.com/jsdom/jsdom) A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
@@ -208,13 +204,9 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 - [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) Optimized TypeScript target for ANTLR 4 
 - [pegjs](https://github.com/pegjs/pegjs) PEG.js: Parser generator for JavaScript https://pegjs.org/ 
 
-**glob**
-- [minimatch](https://github.com/isaacs/minimatch) a glob matcher in javascript
-- [node-glob](https://github.com/isaacs/node-glob) Match files using the patterns the shell uses, like stars and stuff.
 
-**杂项**
-- [tapable](https://github.com/webpack/tapable) Just a little module for plugins.
-- [pug](https://github.com/pugjs/pug) robust, elegant, feature rich template engine for Node.js - <https://pugjs.org> 
+**其他**
+- [shelljs](https://github.com/shelljs/shelljs) Portable Unix shell commands for Node.js https://documentup.com/shelljs/shelljs
 - [flexsearch](https://github.com/nextapps-de/flexsearch/) Next-Generation full text search library for Browser and Node.js (node & browser)
 - [json-server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds
 
