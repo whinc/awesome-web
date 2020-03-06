@@ -196,7 +196,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 
 **Git**
 - [nodegit](https://github.com/nodegit/nodegit) Native Node bindings to Git. https://www.nodegit.org/
-- [git-js](https://github.com/steveukx/git-js) A light weight interface for running git commands in any node.js application.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) A pure JavaScript implementation of git for node and browsers! https://isomorphic-git.org/ (node & browser)
 
 **编译器**
