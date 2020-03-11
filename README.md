@@ -63,6 +63,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
+  - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
+  - [ant-design-icons](https://github.com/ant-design/ant-design-icons) Ant Design SVG Icons https://ant.design/components/icon/
 - [material-ui](https://github.com/mui-org/material-ui) React components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html). https://material-ui.com/
 
 **路由**
