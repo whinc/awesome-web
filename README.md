@@ -103,6 +103,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **参考**
 - [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 
@@ -229,23 +230,12 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
 </p></details>
-
-<details><summary>Specification</summary><p>
   
-## Specification
-
-- [estree](https://github.com/estree/estree) The ESTree Spec
-- [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
-- [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
-- [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
-
-</p></details>
-
-<details><summary>Software</summary><p>
+<details><summary>Others</summary><p>
   
-## Software
+## Others
 
-**Linux 命令行工具**
+**Linux 命令**
 - vim: https://www.vim.org/
 - [vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration: vimrc
 - zsh: http://zsh.sourceforge.net/
@@ -254,10 +244,22 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - git
 - tig
 
-**其他软件**
+**Browser Extensions**
+
+- [HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests https://he.firefoxcn.net/
+
+
+**软件**
 - [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 
+
+**标准规范**
+
+- [estree](https://github.com/estree/estree) The ESTree Spec
+- [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
+- [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
+- [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
 
 </p></details>
 
