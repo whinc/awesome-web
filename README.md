@@ -102,10 +102,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) Renders highlighted Prism output to React (+ theming & vendored Prism)
 
 **参考**
-- [awesome-react](https://github.com/enaqx/awesome-react)
-- [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
 
 </p></details>
 
