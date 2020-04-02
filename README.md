@@ -94,15 +94,16 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [@umijs/hooks](https://github.com/umijs/hooks) React Hooks Library https://hooks.umijs.org/
 
 **精选组件**
-- [slate](https://github.com/ianstormtaylor/slate) A completely customizable framework for building rich text editors. http://slatejs.org
-- [draft-js](https://github.com/facebook/draft-js): A React framework for building text editors. https://draftjs.org/ 
-- [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) Monaco Editor for React.
-- [GGEditor](https://github.com/gaoli/GGEditor) A visual graph editor based on G6 and React http://ggeditor.com/
-- [react-markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components https://rexxars.github.io/react-markdown/
-- [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) Renders highlighted Prism output to React (+ theming & vendored Prism)
+
+与 [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn) 互补。
+
+|类型| 精选组件 |
+|----|---------|
+|富文本编辑器|[draft-js](https://github.com/facebook/draft-js) [slate](https://github.com/ianstormtaylor/slate)|
+|指引|[reactour](https://github.com/elrumordelaluz/reactour)|
+
 
 **参考**
-- [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn)
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
