@@ -233,6 +233,23 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 
 </p></details>
   
+<details><summary>Specifications</summary><p>
+
+  
+## Specifications
+
+
+**标准规范**
+
+- [HTML5](https://html.spec.whatwg.org/multipage/)
+- [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
+- [estree](https://github.com/estree/estree) The ESTree Spec
+- [JSON](http://json.org/json-zh.html) (JavaScript Object Notation) is a lightweight data-interchange format.
+- [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
+- [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
+
+</p></details>
+  
 <details><summary>Others</summary><p>
   
 ## Others
@@ -255,13 +272,6 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 
-
-**标准规范**
-
-- [estree](https://github.com/estree/estree) The ESTree Spec
-- [ecma262](https://github.com/tc39/ecma262) Status, process, and documents for ECMA-262 https://tc39.es/ecma262/
-- [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
-- [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
 
 </p></details>
 
