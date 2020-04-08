@@ -102,7 +102,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 |----|---------|
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
 |新手引导|[reactour](https://github.com/elrumordelaluz/reactour)|
-|Excel表格|[react-datasheet](https://github.com/nadbm/react-datasheet) \| [react-data-grid](https://github.com/adazzle/react-data-grid)|
+|Excel表格|[react-data-grid](https://github.com/adazzle/react-data-grid) \| [react-handsontable](https://github.com/handsontable/react-handsontable)|
 
 
 **参考**
