@@ -100,8 +100,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 |类型| 精选组件 |
 |----|---------|
-|富文本编辑器|[draft-js](https://github.com/facebook/draft-js) [slate](https://github.com/ianstormtaylor/slate)|
-|指引|[reactour](https://github.com/elrumordelaluz/reactour)|
+|富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
+|新手引导|[reactour](https://github.com/elrumordelaluz/reactour)|
+|Excel表格|[react-datasheet](https://github.com/nadbm/react-datasheet) \| [react-data-grid](https://github.com/adazzle/react-data-grid)|
 
 
 **参考**
