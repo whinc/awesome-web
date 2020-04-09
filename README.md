@@ -229,6 +229,17 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 
 ## DevOps
 
+**必备工具**
+- [vim](https://www.vim.org/)
+  - [vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration: vimrc
+- [zsh](http://zsh.sourceforge.net/)
+  - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven framework for managing your zsh configuration. https://ohmyz.sh/
+- tmux
+- git
+  - tig
+
+
+**特定工具**
 - [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
 - [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 
@@ -255,19 +266,9 @@ A secure JavaScript and TypeScript runtime https://deno.land/
   
 ## Others
 
-**Linux 命令**
-- vim: https://www.vim.org/
-- [vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration: vimrc
-- zsh: http://zsh.sourceforge.net/
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven framework for managing your zsh configuration. https://ohmyz.sh/
-- tmux
-- git
-- tig
-
 **Browser Extensions**
 
 - [HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests https://he.firefoxcn.net/
-
 
 **软件**
 - [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com
