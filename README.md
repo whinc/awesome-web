@@ -259,6 +259,8 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [JSON](http://json.org/json-zh.html) (JavaScript Object Notation) is a lightweight data-interchange format.
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol （[中文版](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)）
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) Defines a common protocol for language servers. https://microsoft.github.io/language-server-protocol/
+- [DWARF Debugging Standard](http://dwarfstd.org/) DWARF is a debugging file format used by many compilers and debuggers to support source level debugging.
+- [WebAssembly](https://webassembly.org/) (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine.
 
 </p></details>
   
