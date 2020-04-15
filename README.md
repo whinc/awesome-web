@@ -51,6 +51,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 **脚手架**
 - [create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. https://facebook.github.io/create-react-app/
   - [customize-cra](https://github.com/arackaf/customize-cra) Override webpack configurations for create-react-app 2.0
+  - [workerize-loader](https://github.com/developit/workerize-loader) Automatically move a module into a Web Worker（支持CRA）
 - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler https://parceljs.org
 - [tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development
 
