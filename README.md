@@ -239,8 +239,8 @@ A secure JavaScript and TypeScript runtime https://deno.land/
 - [zsh](http://zsh.sourceforge.net/)
   - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven framework for managing your zsh configuration. https://ohmyz.sh/
 - tmux
-- git
-  - tig
+- [git](https://git-scm.com/) Git is a free and open source distributed version control system
+- [tig](https://github.com/jonas/tig) Text-mode interface for git https://jonas.github.io/tig/
 
 
 **特定工具**
