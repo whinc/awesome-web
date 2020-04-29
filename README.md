@@ -238,10 +238,11 @@ A secure JavaScript and TypeScript runtime https://deno.land/
   - [vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration: vimrc
 - [zsh](http://zsh.sourceforge.net/)
   - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven framework for managing your zsh configuration. https://ohmyz.sh/
-- tmux
+- [tmux](https://github.com/tmux/tmux) tmux is a terminal multiplexer
 - [git](https://git-scm.com/) Git is a free and open source distributed version control system
 - [tig](https://github.com/jonas/tig) Text-mode interface for git https://jonas.github.io/tig/
 
+>参考[有哪些命令行的软件堪称神器？](https://www.zhihu.com/question/59227720)
 
 **特定工具**
 - [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
