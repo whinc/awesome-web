@@ -262,6 +262,8 @@ A secure JavaScript and TypeScript runtime https://deno.land/
   
 ## Others
 
+- [province-city-china](https://github.com/uiwjs/province-city-china) 中国最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
+
 **Browser Extensions**
 
 - [HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests https://he.firefoxcn.net/
