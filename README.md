@@ -9,7 +9,7 @@
 **表单**
 - [async-validator](https://github.com/yiminghe/async-validator) validate form asynchronous
   
-**UI 组件库**
+**UI库**
 - [Bootstrap](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. https://getbootstrap.com
 - [Bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io
   
