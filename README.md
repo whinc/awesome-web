@@ -68,6 +68,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **组件库**
 - [ant-design](https://github.com/ant-design/ant-design) A UI Design Language and React UI library https://ant.design
+  - [pro-components](https://github.com/ant-design/pro-components) 基于 antd 封装的抽象度更高的组件
   - [react-component](https://github.com/react-component) antd 组件仓库的集合，要阅读 antd 组件源码时来这里。
   - [ant-design-colors](https://github.com/ant-design/ant-design-colors) Color Palettes Calculator of Ant Design https://ant.design/docs/spec/colors
   - [ant-design-icons](https://github.com/ant-design/ant-design-icons) Ant Design SVG Icons https://ant.design/components/icon/
