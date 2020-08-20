@@ -33,8 +33,13 @@
 - [prism](https://github.com/PrismJS/prism) Lightweight, robust, elegant syntax highlighting. http://prismjs.com
 - [highlight.js](https://github.com/highlightjs/highlight.js) Javascript syntax highlighter https://highlightjs.org/
 
-**其他**
+**解析**
+- [sheetjs](https://github.com/SheetJS/sheetjs) SheetJS Community Edition -- Spreadsheet Data Toolkit
+
+**网络**
 - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
+
+**其他**
 - [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
 - [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
