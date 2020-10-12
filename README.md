@@ -232,15 +232,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 
 <details><summary>Deno</summary><p>
   
-## [Deno](https://github.com/denoland/deno)
-
-A secure JavaScript and TypeScript runtime https://deno.land/
-
-[awesome-deno-cn](https://github.com/hylerrix/awesome-deno-cn)
-
-</p></details>
-
-<details><summary>DevOps</summary><p>
 
 ## DevOps
 
