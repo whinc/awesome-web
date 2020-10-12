@@ -230,15 +230,6 @@ Node.js JavaScript runtime. https://nodejs.org/ ([中文](http://nodejs.cn/))
 
 </p></details>
 
-<details><summary>Deno</summary><p>
-  
-
-## DevOps
-
-- [pm2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer. http://pm2.keymetrics.io 
-- [nginx](https://nginx.org/en/docs/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
-
-</p></details>
   
 <details><summary>Specifications</summary><p>
 
