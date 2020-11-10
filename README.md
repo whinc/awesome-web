@@ -103,8 +103,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 **Hooks**
 - [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
+- [ahooks](https://github.com/alibaba/hooks) React Hooks Library. http://ahooks.js.org/
 - [use-immer](https://github.com/immerjs/use-immer) Use immer to drive state with a React hooks
-- [@umijs/hooks](https://github.com/umijs/hooks) React Hooks Library https://hooks.umijs.org/
 
 **精选组件**
 
