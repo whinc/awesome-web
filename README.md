@@ -95,7 +95,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
   - [mobx-react](https://github.com/mobxjs/mobx-react) React bindings for MobX
   - [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)  Lightweight React bindings for MobX based on React 16.8 and Hooks https://mobx-react.js.org
   - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX https://mobx-state-tree.js.org/
-- [constate](https://github.com/diegohaz/constate) Scalable state using React Hooks & Context
 
 **工具库**
 - [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
