@@ -5,6 +5,10 @@
 <details><summary>Web</summary><p>
 
 ## Web
+
+|类型| 精选库 |
+|----|---------|
+|[web-watermark](https://github.com/hjyker/web-watermark)|水印|
   
 **表单**
 - [async-validator](https://github.com/yiminghe/async-validator) validate form asynchronous
