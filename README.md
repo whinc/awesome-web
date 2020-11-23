@@ -6,48 +6,28 @@
 
 ## Web
 
+**常规**
+
 |类型| 精选库 |
 |----|---------|
-|[web-watermark](https://github.com/hjyker/web-watermark)|水印|
-  
-**表单**
-- [async-validator](https://github.com/yiminghe/async-validator) validate form asynchronous
-  
-**UI库**
-- [Bootstrap](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. https://getbootstrap.com
-- [Bulma](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox https://bulma.io
-  
-**图标**
-- [Iconfont](https://www.iconfont.cn/) 阿里矢量图标管理、交流平台。
-- [Font Awesome](https://fontawesome.com/)
+|网络请求|[axios](https://github.com/axios/axios)|
+|UI库|[Bootstrap](https://github.com/twbs/bootstrap) \| [Bulma](https://github.com/jgthms/bulma) |
+|图标|[Font Awesome](https://fontawesome.com/) \| [Iconfont](https://www.iconfont.cn/)|
+|字体|[typography.js](https://github.com/KyleAMathews/typography.js)|
+|表单校验|[async-validator](https://github.com/yiminghe/async-validator)|
+|图表|[echarts](https://github.com/apache/incubator-echarts) \| [AntV](https://github.com/antvis) |
+|代码编辑器|[monaco-editor](https://github.com/microsoft/monaco-editor)|
+|语法高亮|[prism](https://github.com/PrismJS/prism) \| [highlight.js](https://github.com/highlightjs/highlight.js) |
+|堆栈处理|[stacktrace.js](https://github.com/stacktracejs/stacktrace.js)|
 
-**字体**
-- [Google Fonts](https://fonts.google.com/)
-- [typography.js](https://github.com/KyleAMathews/typography.js) A powerful toolkit for building websites with beautiful typography.
+**非常规**
 
-**可视化**
-- [echarts](https://github.com/apache/incubator-echarts) A powerful, interactive charting and visualization library for browser http://echarts.apache.org/
-- [AntV](https://github.com/antvis) 是蚂蚁金服全新一代数据可视化解决方案 https://antv.vision/zh
-- [mermaid](https://github.com/knsv/mermaid) Generation of diagram and flowchart from text in a similar manner as markdown - http://knsv.github.io/mermaid/
-
-**编辑器**
-- [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor https://microsoft.github.io/monaco-editor/
-
-**代码高亮**
-- [prism](https://github.com/PrismJS/prism) Lightweight, robust, elegant syntax highlighting. http://prismjs.com
-- [highlight.js](https://github.com/highlightjs/highlight.js) Javascript syntax highlighter https://highlightjs.org/
-
-**解析**
-- [sheetjs](https://github.com/SheetJS/sheetjs) SheetJS Community Edition -- Spreadsheet Data Toolkit
-
-**网络**
-- [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
-
-**其他**
-- [xterm.js](https://github.com/xtermjs/xterm.js) A terminal for the web https://xtermjs.org/
-- [html2canvas](https://github.com/niklasvh/html2canvas) Screenshots with JavaScript https://html2canvas.hertzen.com/
-- [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) Generate, parse, and enhance JavaScript stack traces in all web browsers https://www.stacktracejs.com/ 
-- [hanzi-writer](https://github.com/chanind/hanzi-writer) Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer 
+|类型| 精选库 |
+|----|---------|
+|终端|[xterm.js](https://github.com/xtermjs/xterm.js)|
+|截图|[html2canvas](https://github.com/niklasvh/html2canvas)
+|excel解析|[sheetjs](https://github.com/SheetJS/sheetjs)|
+|水印|[web-watermark](https://github.com/hjyker/web-watermark)|
 
 </p></details>
 
@@ -100,14 +80,10 @@ A declarative, efficient, and flexible JavaScript library for building user inte
   - [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)  Lightweight React bindings for MobX based on React 16.8 and Hooks https://mobx-react.js.org
   - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX https://mobx-state-tree.js.org/
 
-**工具库**
-- [prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
-- [immer](https://github.com/immerjs/immer) Create the next immutable state by mutating the current one - https://immerjs.github.io/immer/
-
-**Hooks**
-- [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks. http://streamich.github.io/react-use
-- [ahooks](https://github.com/alibaba/hooks) React Hooks Library. http://ahooks.js.org/
-- [use-immer](https://github.com/immerjs/use-immer) Use immer to drive state with a React hooks
+|类型| Github |
+|----|---------|
+|不可变数据|[immer](https://github.com/immerjs/immer)|
+|Hooks|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer) |
 
 **精选组件**
 
@@ -120,7 +96,8 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 |滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
 |AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
 |Excel表格|[react-data-grid](https://github.com/adazzle/react-data-grid) \| [react-handsontable](https://github.com/handsontable/react-handsontable)|
-
+|图表|[ant-design-charts](https://github.com/ant-design/ant-design-charts) |
+|图编辑器|[x6](https://github.com/antvis/x6)|
 
 **参考**
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
