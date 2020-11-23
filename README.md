@@ -2,8 +2,6 @@
 记录我使用过并且觉得好用的包，随着更新换代，此清单也会随之更新。
 
 
-<details><summary>Web</summary><p>
-
 ## Web
 
 **常规**
@@ -29,9 +27,6 @@
 |excel解析|[sheetjs](https://github.com/SheetJS/sheetjs)|
 |水印|[web-watermark](https://github.com/hjyker/web-watermark)|
 
-</p></details>
-
-<details><summary>React</summary><p>
   
 ## [React](https://github.com/facebook/react/)
 A declarative, efficient, and flexible JavaScript library for building user interfaces https://zh-hans.reactjs.org
@@ -103,8 +98,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
-
-</p></details>
 
 <details><summary>Frontend Engineering</summary><p>
   
