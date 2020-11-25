@@ -4,8 +4,6 @@
 
 ## Web
 
-**常规**
-
 |类型| 精选库 |
 |----|---------|
 |网络请求|[axios](https://github.com/axios/axios)|
@@ -17,11 +15,6 @@
 |代码编辑器|[monaco-editor](https://github.com/microsoft/monaco-editor)|
 |语法高亮|[prism](https://github.com/PrismJS/prism) \| [highlight.js](https://github.com/highlightjs/highlight.js) |
 |堆栈处理|[stacktrace.js](https://github.com/stacktracejs/stacktrace.js)|
-
-**非常规**
-
-|类型| 精选库 |
-|----|---------|
 |终端|[xterm.js](https://github.com/xtermjs/xterm.js)|
 |截图|[html2canvas](https://github.com/niklasvh/html2canvas)
 |excel解析|[sheetjs](https://github.com/SheetJS/sheetjs)|
