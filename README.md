@@ -12,7 +12,7 @@
 |字体|[typography.js](https://github.com/KyleAMathews/typography.js)|
 |表单校验|[async-validator](https://github.com/yiminghe/async-validator)|
 |图表|[echarts](https://github.com/apache/incubator-echarts) \| [AntV](https://github.com/antvis) |
-|代码编辑器|[monaco-editor](https://github.com/microsoft/monaco-editor)|
+|代码编辑器|[monaco-editor](https://github.com/microsoft/monaco-editor) \| [monaco-vim](https://github.com/brijeshb42/monaco-vim)|
 |语法高亮|[prism](https://github.com/PrismJS/prism) \| [highlight.js](https://github.com/highlightjs/highlight.js) |
 |堆栈处理|[stacktrace.js](https://github.com/stacktracejs/stacktrace.js)|
 |终端|[xterm.js](https://github.com/xtermjs/xterm.js)|
