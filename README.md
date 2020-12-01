@@ -84,7 +84,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 |滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
 |AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
 |Excel表格|[react-data-grid](https://github.com/adazzle/react-data-grid) \| [react-handsontable](https://github.com/handsontable/react-handsontable)|
-|图表|[ant-design-charts](https://github.com/ant-design/ant-design-charts) |
+|图表|[echarts-for-react](https://github.com/hustcc/echarts-for-react) \| [ant-design-charts](https://github.com/ant-design/ant-design-charts) |
 |图编辑器|[x6](https://github.com/antvis/x6)|
 
 **参考**
