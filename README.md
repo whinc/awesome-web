@@ -31,6 +31,8 @@
 |路由|[react-router](https://github.com/ReactTraining/react-router)|
 |状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [dva](https://github.com/dvajs/dva) \| [mobx-react](https://github.com/mobxjs/mobx-react) \| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) | 
 |hooks|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
+|keep-alive|[react-activation](https://github.com/CJY0208/react-activation)|
+
 
 **精选组件**
 
