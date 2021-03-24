@@ -66,7 +66,7 @@
 
 |类型| 精选库 |
 |----|---------|
-|脚手架|[oclif](https://github.com/oclif/oclif)|
+|CLI|[oclif](https://github.com/oclif/oclif)|
 |运维|[nvm](https://github.com/creationix/nvm) \| [nodemon](https://github.com/remy/nodemon) |
 |Web框架|[koa](https://github.com/koajs/koa) \| [express](https://github.com/expressjs/express/) \| [nest](https://github.com/nestjs/nest) |
 |日期|[dayjs](https://github.com/iamkun/dayjs) \| [date-fns](https://github.com/date-fns/date-fns) |
