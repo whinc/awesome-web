@@ -45,7 +45,7 @@
 |AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
 |Excel表格|[react-data-grid](https://github.com/adazzle/react-data-grid) \| [react-handsontable](https://github.com/handsontable/react-handsontable)|
 |图表|[echarts-for-react](https://github.com/hustcc/echarts-for-react) \| [ant-design-charts](https://github.com/ant-design/ant-design-charts) |
-|图编辑器|[x6](https://github.com/antvis/x6)|
+|图编辑器|[x6](https://github.com/antvis/x6) \| [GGEditor](https://github.com/alibaba/GGEditor)|
 
 与 [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn) 互补。
   
