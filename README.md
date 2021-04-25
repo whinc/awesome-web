@@ -39,6 +39,7 @@
 |类型| 精选组件 |
 |----|---------|
 |组件库|[ant-design](https://github.com/ant-design/ant-design) \| [material-ui](https://github.com/mui-org/material-ui) |
+|异步加载| [react-loadable](https://github.com/jamiebuilds/react-loadable) |
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
 |新手引导|[reactour](https://github.com/elrumordelaluz/reactour)|
 |滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
