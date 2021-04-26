@@ -23,8 +23,9 @@
   
 ## [React](https://github.com/facebook/react/)
 
+**基础**
 
-|类型| 精选库 |
+|类型| Github |
 |----|---------|
 |脚手架|[create-react-app](https://github.com/facebook/create-react-app) \| [customize-cra](https://github.com/arackaf/customize-cra) \| [create-react-library](https://github.com/transitive-bullshit/create-react-library) \| [parcel](https://github.com/parcel-bundler/parcel)|
 |CSS-in-JS|[emotion](https://github.com/emotion-js/emotion) \| [styled-components](https://github.com/styled-components/styled-components) \| [polished](https://github.com/styled-components/polished) |
@@ -33,22 +34,29 @@
 |hooks|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
 |keep-alive|[react-activation](https://github.com/CJY0208/react-activation)|
 
+**UI 组件**
 
-**精选组件**
-
-|类型| 精选组件 |
+|类型| Github |
 |----|---------|
 |组件库|[ant-design](https://github.com/ant-design/ant-design) \| [material-ui](https://github.com/mui-org/material-ui) |
+|表格|[react-table](https://github.com/tannerlinsley/react-table)|
+|AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
 |异步加载| [loadable-components](https://github.com/gregberge/loadable-components) \| [react-loadable](https://github.com/jamiebuilds/react-loadable) |
+|滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
+
+> 与 [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn) 互补。
+
+**特殊组件**
+
+|类型| Github |
+|----|---------|
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
 |新手引导|[reactour](https://github.com/elrumordelaluz/reactour)|
-|滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
-|AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
 |Excel表格|[react-data-grid](https://github.com/adazzle/react-data-grid) \| [react-handsontable](https://github.com/handsontable/react-handsontable)|
 |图表|[echarts-for-react](https://github.com/hustcc/echarts-for-react) \| [ant-design-charts](https://github.com/ant-design/ant-design-charts) |
 |图编辑器|[x6](https://github.com/antvis/x6) \| [GGEditor](https://github.com/alibaba/GGEditor)|
 
-与 [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn) 互补。
+
   
 ## 前端工程化
 
