@@ -31,7 +31,7 @@
   
 ## [React](https://github.com/facebook/react/)
 
-**基础**
+**项目基建**
 
 |类型| Github |
 |----|---------|
@@ -41,26 +41,16 @@
 |状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [dva](https://github.com/dvajs/dva) \| [mobx-react](https://github.com/mobxjs/mobx-react) \| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) \| [react-context-devtool](https://github.com/deeppatel234/react-context-devtool) | 
 |hooks工具|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
 
-**UI 组件**
+**组件**
 
 |类型| Github |
 |----|---------|
 |组件库|[ant-design](https://github.com/ant-design/ant-design) \| [material-ui](https://github.com/mui-org/material-ui) |
 |表格|[react-table](https://github.com/tannerlinsley/react-table)|
-
-**高级UI组件**
-
-|类型| Github |
-|----|---------|
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
 |Excel表格|[react-data-grid](https://github.com/adazzle/react-data-grid) \| [react-handsontable](https://github.com/handsontable/react-handsontable)|
 |图表|[echarts-for-react](https://github.com/hustcc/echarts-for-react) \| [ant-design-charts](https://github.com/ant-design/ant-design-charts) |
 |图编辑器|[x6](https://github.com/antvis/x6) \| [GGEditor](https://github.com/alibaba/GGEditor)|
-
-**功能组件**
-
-|类型| Github |
-|----|---------|
 |AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
 |异步加载| [loadable-components](https://github.com/gregberge/loadable-components) \| [react-loadable](https://github.com/jamiebuilds/react-loadable) |
 |滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
