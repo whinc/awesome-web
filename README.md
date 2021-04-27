@@ -2,14 +2,22 @@
 记录我使用过并且觉得好用的包，随着更新换代，此清单也会随之更新。
 
 
-## Web
+## H5 原生
+
+**UI 体验**
+
+|类型| 精选库 |
+|----|---------|
+|UI库|[Bootstrap](https://github.com/twbs/bootstrap) \| [Bulma](https://github.com/jgthms/bulma) \| [tailwindcss](https://github.com/tailwindlabs/tailwindcss)|
+|图标|[Font Awesome](https://fontawesome.com/) \| [Iconfont](https://www.iconfont.cn/)|
+|字体|[typography.js](https://github.com/KyleAMathews/typography.js)|
+
+
+**JS 功能库**
 
 |类型| 精选库 |
 |----|---------|
 |网络请求|[axios](https://github.com/axios/axios)|
-|UI库|[Bootstrap](https://github.com/twbs/bootstrap) \| [Bulma](https://github.com/jgthms/bulma) |
-|图标|[Font Awesome](https://fontawesome.com/) \| [Iconfont](https://www.iconfont.cn/)|
-|字体|[typography.js](https://github.com/KyleAMathews/typography.js)|
 |表单校验|[async-validator](https://github.com/yiminghe/async-validator)|
 |图表|[echarts](https://github.com/apache/incubator-echarts) \| [AntV](https://github.com/antvis) |
 |代码编辑器|[monaco-editor](https://github.com/microsoft/monaco-editor) \| [monaco-vim](https://github.com/brijeshb42/monaco-vim)|
