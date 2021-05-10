@@ -89,7 +89,7 @@
 |其他|[dotenv](https://github.com/motdotla/dotenv) \| [shelljs](https://github.com/shelljs/shelljs)|
 
 
-## 前端业务技术选型
+## 业务技术选型
 
 企业级中后台前端解决方案：[ant-design-pro](https://github.com/ant-design/ant-design-pro) + [umi](https://github.com/umijs/umi) + [ant-design](https://github.com/ant-design/ant-design) + [pro-components](https://github.com/ant-design/pro-components) 
   
