@@ -2,21 +2,13 @@
 记录我使用过并且觉得好用的包，随着更新换代，此清单也会随之更新。
 
 
-## H5 原生
-
-**UI 体验**
+## Web 原生
 
 |类型| 精选库 |
 |----|---------|
 |UI库|[Bootstrap](https://github.com/twbs/bootstrap) \| [Bulma](https://github.com/jgthms/bulma) \| [tailwindcss](https://github.com/tailwindlabs/tailwindcss)|
 |图标|[Font Awesome](https://fontawesome.com/) \| [Iconfont](https://www.iconfont.cn/)|
 |字体|[typography.js](https://github.com/KyleAMathews/typography.js)|
-
-
-**JS 功能库**
-
-|类型| 精选库 |
-|----|---------|
 |网络请求|[axios](https://github.com/axios/axios)|
 |表单校验|[async-validator](https://github.com/yiminghe/async-validator)|
 |图表|[echarts](https://github.com/apache/incubator-echarts) \| [AntV](https://github.com/antvis) |
@@ -31,8 +23,6 @@
   
 ## [React](https://github.com/facebook/react/)
 
-**项目基建**
-
 |类型| Github |
 |----|---------|
 |脚手架|[create-react-app](https://github.com/facebook/create-react-app) \| [customize-cra](https://github.com/arackaf/customize-cra) \| [create-react-library](https://github.com/transitive-bullshit/create-react-library) \| [parcel](https://github.com/parcel-bundler/parcel) \| [umi](https://github.com/umijs/umi) |
@@ -40,11 +30,6 @@
 |路由|[react-router](https://github.com/ReactTraining/react-router)|
 |状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [dva](https://github.com/dvajs/dva) \| [mobx-react](https://github.com/mobxjs/mobx-react) \| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) \| [react-context-devtool](https://github.com/deeppatel234/react-context-devtool) | 
 |hooks工具|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
-
-**组件**
-
-|类型| Github |
-|----|---------|
 |组件库|[ant-design](https://github.com/ant-design/ant-design) \| [pro-components](https://github.com/ant-design/pro-components) \| [material-ui](https://github.com/mui-org/material-ui) |
 |表格|[react-table](https://github.com/tannerlinsley/react-table)|
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
