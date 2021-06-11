@@ -53,7 +53,7 @@
 |预处理器|[babel](https://github.com/babel/babel) \| [sass](https://github.com/sass/sass) \| [pug](https://github.com/pugjs/pug)|
 |Lint|[eslint](https://github.com/eslint/eslint) \| [stylelint](https://github.com/stylelint/stylelint)|
 |测试框架|[jest](https://github.com/facebook/jest) \| [storybook](https://github.com/storybookjs/storybook)|
-|文档生成|[docusaurus](https://github.com/facebook/docusaurus) \| [vuepress](https://github.com/vuejs/vuepress)|
+|文档生成|[docusaurus](https://github.com/facebook/docusaurus) \| [vuepress](https://github.com/vuejs/vuepress)| \| [docz](https://github.com/pedronauck/docz) |
 |发布|[standard-version](https://github.com/conventional-changelog/standard-version) \| [semantic-release](https://github.com/semantic-release/semantic-release)|
 |部署|[now](https://github.com/zeit/now)|
 |Git|[husky](https://github.com/typicode/husky) \| [lint-staged](https://github.com/okonet/lint-staged) \| [cz-cli](https://github.com/commitizen/cz-cli)|
