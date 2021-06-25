@@ -1,6 +1,30 @@
 # awesome-any
-记录我使用过并且觉得好用的包，随着更新换代，此清单也会随之更新。
 
+收藏我关注的 awesome 系列，方便以后查找资料
+
+
+## 前端开发
+
+- [React](https://github.com/enaqx/awesome-react#readme) A collection of awesome things regarding React ecosystem
+
+## JavaScript
+
+* [JavaScript](https://github.com/sorrycc/awesome-javascript) - A central list of _everything_ JavaScript.
+* [Functional Programming](https://github.com/stoeffel/awesome-fp-js) - An extensive list of resources on learning, implementing, and using Functional Programming in JavaScript.
+* [Promises](https://github.com/wbinnssmith/awesome-promises) - A list with a focuses on resources, implementations, and utilities for Promises.
+* [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A list limited to the best learning resources about JavaScript – the language.
+* [Typescript](https://github.com/dzharii/awesome-typescript)
+
+## Node.js
+
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs) - The core awesome list for Node.js. 
+* [npm](https://github.com/sindresorhus/awesome-npm) - A list specifically around npm, the package manager bundled with Node.js by default.
+
+
+## 参考
+
+- [awesome](https://github.com/sindresorhus/awesome) Awesome lists about all kinds of interesting topics
+- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)
 
 ## Web 原生
 
