@@ -37,6 +37,7 @@
 |图表|[echarts-for-react](https://github.com/hustcc/echarts-for-react) \| [ant-design-charts](https://github.com/ant-design/ant-design-charts) |
 |图编辑器|[x6](https://github.com/antvis/x6) \| [GGEditor](https://github.com/alibaba/GGEditor)|
 |AutoSizer|[react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer)|
+|面板分割|[re-resizable](https://github.com/bokuweb/re-resizable) |
 |异步加载| [loadable-components](https://github.com/gregberge/loadable-components) \| [react-loadable](https://github.com/jamiebuilds/react-loadable) |
 |滚动条|[react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)|
 |keep-alive|[react-activation](https://github.com/CJY0208/react-activation)|
