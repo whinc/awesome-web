@@ -30,7 +30,7 @@ Web 前端相关的优质开源项目集合
 |CSS-in-JS|[emotion](https://github.com/emotion-js/emotion) \| [styled-components](https://github.com/styled-components/styled-components) \| [polished](https://github.com/styled-components/polished) |
 |路由|[react-router](https://github.com/ReactTraining/react-router)|
 |状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [dva](https://github.com/dvajs/dva) \| [mobx-react](https://github.com/mobxjs/mobx-react) \| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) \| [react-context-devtool](https://github.com/deeppatel234/react-context-devtool) | 
-|Hooks|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
+|Hooks|[react-use](https://github.com/streamich/react-use) \| [use-immer](https://github.com/immerjs/use-immer) \| [swr](https://github.com/vercel/swr) |
 |UI组件库|[ant-design](https://github.com/ant-design/ant-design) \| [pro-components](https://github.com/ant-design/pro-components) \| [react-component](https://github.com/react-component)  \| [material-ui](https://github.com/mui-org/material-ui) |
 |表格|[react-table](https://github.com/tannerlinsley/react-table)|
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
