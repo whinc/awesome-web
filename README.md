@@ -1,32 +1,9 @@
-# awesome-any
+# awesome-web
 
-收藏我关注的 awesome 系列，方便以后查找资料
-
-
-## 前端开发
-
-- [React](https://github.com/enaqx/awesome-react#readme) A collection of awesome things regarding React ecosystem
-
-## JavaScript
-
-* [JavaScript](https://github.com/sorrycc/awesome-javascript) - A central list of _everything_ JavaScript.
-* [Functional Programming](https://github.com/stoeffel/awesome-fp-js) - An extensive list of resources on learning, implementing, and using Functional Programming in JavaScript.
-* [Promises](https://github.com/wbinnssmith/awesome-promises) - A list with a focuses on resources, implementations, and utilities for Promises.
-* [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A list limited to the best learning resources about JavaScript – the language.
-* [Typescript](https://github.com/dzharii/awesome-typescript)
-
-## Node.js
-
-* [Node.js](https://github.com/sindresorhus/awesome-nodejs) - The core awesome list for Node.js. 
-* [npm](https://github.com/sindresorhus/awesome-npm) - A list specifically around npm, the package manager bundled with Node.js by default.
+Web 前端相关的优质开源项目集合
 
 
-## 参考
-
-- [awesome](https://github.com/sindresorhus/awesome) Awesome lists about all kinds of interesting topics
-- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)
-
-## Web 原生
+## 纯原生(HTML/CSS/JavaScript)
 
 |类型| 精选库 |
 |----|---------|
@@ -53,7 +30,7 @@
 |CSS-in-JS|[emotion](https://github.com/emotion-js/emotion) \| [styled-components](https://github.com/styled-components/styled-components) \| [polished](https://github.com/styled-components/polished) |
 |路由|[react-router](https://github.com/ReactTraining/react-router)|
 |状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [dva](https://github.com/dvajs/dva) \| [mobx-react](https://github.com/mobxjs/mobx-react) \| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) \| [react-context-devtool](https://github.com/deeppatel234/react-context-devtool) | 
-|hooks库|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
+|Hooks|[react-use](https://github.com/streamich/react-use) \| [ahooks](https://github.com/alibaba/hooks) \| [use-immer](https://github.com/immerjs/use-immer)|
 |UI组件库|[ant-design](https://github.com/ant-design/ant-design) \| [pro-components](https://github.com/ant-design/pro-components) \| [react-component](https://github.com/react-component)  \| [material-ui](https://github.com/mui-org/material-ui) |
 |表格|[react-table](https://github.com/tannerlinsley/react-table)|
 |富文本编辑器|[draft-js](https://github.com/facebook/draft-js) \| [slate](https://github.com/ianstormtaylor/slate)|
@@ -69,7 +46,7 @@
 
 > 与 [antd-社区精选组件](https://ant.design/docs/react/recommendation-cn) 互补。
   
-## 前端工程化
+## 工程化
 
 |类型| 精选库 |
 |----|---------|
@@ -109,4 +86,13 @@
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 * [Open Source Awards](https://osawards.com/)
 * [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
+* [JavaScript](https://github.com/sorrycc/awesome-javascript) - A central list of _everything_ JavaScript.
+* [Functional Programming](https://github.com/stoeffel/awesome-fp-js) - An extensive list of resources on learning, implementing, and using Functional Programming in JavaScript.
+* [Promises](https://github.com/wbinnssmith/awesome-promises) - A list with a focuses on resources, implementations, and utilities for Promises.
+* [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A list limited to the best learning resources about JavaScript – the language.
+* [Typescript](https://github.com/dzharii/awesome-typescript)
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs) - The core awesome list for Node.js. 
+* [npm](https://github.com/sindresorhus/awesome-npm) - A list specifically around npm, the package manager bundled with Node.js by default.
+- [awesome](https://github.com/sindresorhus/awesome) Awesome lists about all kinds of interesting topics
+- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)
 
