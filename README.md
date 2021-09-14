@@ -29,7 +29,7 @@ Web 前端相关的优质开源项目集合
 |脚手架|[create-react-app](https://github.com/facebook/create-react-app) \| [next.js](https://github.com/vercel/next.js) \| [umi](https://github.com/umijs/umi) |
 |CSS-in-JS|[emotion](https://github.com/emotion-js/emotion) \| [styled-components](https://github.com/styled-components/styled-components) \| [polished](https://github.com/styled-components/polished) |
 |路由|[react-router](https://github.com/ReactTraining/react-router)|
-|状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [dva](https://github.com/dvajs/dva) \| [mobx-react](https://github.com/mobxjs/mobx-react) \| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) \| [react-context-devtool](https://github.com/deeppatel234/react-context-devtool) | 
+|状态管理|[react-redux](https://github.com/reduxjs/react-redux) \| [rematch](https://github.com/rematch/rematch) \| [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) \| [react-context-devtool](https://github.com/deeppatel234/react-context-devtool) | 
 |Hooks|[react-use](https://github.com/streamich/react-use) \| [use-immer](https://github.com/immerjs/use-immer) \| [swr](https://github.com/vercel/swr) |
 |UI组件库|[ant-design](https://github.com/ant-design/ant-design) \| [pro-components](https://github.com/ant-design/pro-components) \| [react-component](https://github.com/react-component)  \| [material-ui](https://github.com/mui-org/material-ui) |
 |表格|[react-table](https://github.com/tannerlinsley/react-table)|
