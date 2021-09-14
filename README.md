@@ -75,12 +75,6 @@ Web 前端相关的优质开源项目集合
 |解析器生成器|[nodegit](https://github.com/nodegit/nodegit) \| [jison](https://github.com/zaach/jison) \|  [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts)|
 |其他|[dotenv](https://github.com/motdotla/dotenv) \| [shelljs](https://github.com/shelljs/shelljs)|
 
-
-## 业务技术选型
-
-企业级中后台前端解决方案1：[create-react-app](https://github.com/facebook/create-react-app) + [ant-design](https://github.com/ant-design/ant-design) + [pro-components](https://github.com/ant-design/pro-components) + [react-use](https://github.com/streamich/react-use) + [rematch](https://github.com/rematch/rematch)
-
-企业级中后台前端解决方案2：[umi](https://github.com/umijs/umi) + [ant-design-pro](https://github.com/ant-design/ant-design-pro) + [ant-design](https://github.com/ant-design/ant-design) + [pro-components](https://github.com/ant-design/pro-components) + [ahooks](https://github.com/alibaba/hooks) + [dva](https://github.com/dvajs/dva)
   
 ## References
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
